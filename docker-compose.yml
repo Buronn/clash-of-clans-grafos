@@ -1,0 +1,10 @@
+version: "3.7"
+services:
+  python:
+    container_name: scrapper
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    command: tail -f /dev/null
+    volumes:
+      - ./app:/app

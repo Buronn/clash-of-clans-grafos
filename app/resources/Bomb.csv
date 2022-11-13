@@ -1,0 +1,12 @@
+Level,Cost gold-coin-icon,Damage,Re-Arm Cost gold-coin-icon,Build Time,Town hall Level Required
+1,400,20,50,Instant, townhall townhall3
+2,1000,24,100,15 minutes, townhall townhall3
+3,10000,29,150,0 days 2 hours, townhall townhall5
+4,100000,35,200,0 days 8 hours, townhall townhall7
+5,300000,42,250,0 days 18 hours, townhall townhall8
+6,500000,54,300,1 days 12 hours, townhall townhall9
+7,850000,72,350,2 days 12 hours, townhall townhall10
+8,1400000,92,400,2 days 18 hours, townhall townhall11
+9,3000000,125,450,4 days 12 hours, townhall townhall13
+10,5500000,140,500,7 days 12 hours, townhall townhall14
+11,8000000,155,550,8 days, townhall townhall15

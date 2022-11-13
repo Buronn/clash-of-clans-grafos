@@ -1,0 +1,11 @@
+Level,Damage per Second,Hitpoints,Research Cost dark-elixir-icon,Research time,Available at
+1,178,3120,-,-, townhall townhall15
+2,186,3240,215000,3 days, townhall townhall15
+3,194,3360,225000,4 days, townhall townhall15
+4,202,3480,235000,5 days, townhall townhall15
+5,210,3600,245000,5 days 12 hours, townhall townhall15
+6,218,3720,255000,6 days, townhall townhall15
+7,226,3840,265000,6 days 12 hours, townhall townhall15
+8,234,3960,275000,7 days, townhall townhall15
+9,242,4080,285000,7 days 12 hours, townhall townhall15
+10,250,4200,295000,8 days, townhall townhall15

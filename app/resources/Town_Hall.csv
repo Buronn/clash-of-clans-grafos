@@ -1,0 +1,16 @@
+Level,Damage per Second,Damage per Shot,Cost gold-coin-icon,Build Time,Hitpoints
+1,0,0,0,Instant,450
+2,0,0,1000,1 minute,1600
+3,0,0,4000,0 days 2 hours,1850
+4,0,0,25000,0 days 3 hours,2100
+5,0,0,150000,0 days 6 hours,2400
+6,0,0,750000,0 days 12 hours,2800
+7,0,0,1000000,0 days 18 hours,3300
+8,0,0,2000000,1 day,3900
+9,0,0,3000000,2 days,4600
+10,0,0,3500000,3 days,5500
+11,0,0,4000000,4 days,6800
+12,120,60,6000000,6 days,7500
+13,120,60,9000000,10 days,8200
+14,120,60,15000000,14 days,8900
+15,120,60,18000000,15 days,9600

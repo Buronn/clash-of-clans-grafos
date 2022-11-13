@@ -1,0 +1,17 @@
+Level,Cost gold-coin-icon,Cumulative Cost,Hitpoints,Town hall Level Required
+1,50 gold-coin-icon,50,300, townhall townhall2
+2,1000 gold-coin-icon,1050,500, townhall townhall2
+3,5000 gold-coin-icon,6050,700, townhall townhall3
+4,10000 gold-coin-icon,16050,900, townhall townhall4
+5,20000 gold-coin-icon,36050,1400, townhall townhall5
+6,30000 gold-coin-icon,66050,2000, townhall townhall6
+7,50000 gold-coin-icon,116050,2500, townhall townhall7
+8,75000 gold-coin-icon,191050,3000, townhall townhall8
+9,100000 gold-coin-icon,291050,4000, townhall townhall9
+10,200000 gold-coin-icon,491050,5500, townhall townhall9
+11,500000 gold-coin-icon,991050,7000, townhall townhall10
+12,1000000 gold-coin-icon,1991050,8500, townhall townhall11
+13,2000000 gold-coin-icon,3991050,10000, townhall townhall12
+14,4000000 gold-coin-icon,7991050,11500, townhall townhall13
+15,7000000 gold-coin-icon,14991050,12500, townhall townhall14
+16,8000000 gold-coin-icon,22991050,13500, townhall townhall15

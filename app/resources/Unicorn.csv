@@ -1,0 +1,11 @@
+Level,Healing per Second,Hitpoints,Research Cost dark-elixir-icon,Research time,Available at
+1,50,1400,-,-, townhall townhall14
+2,53,1450,210000,3 days, townhall townhall14
+3,56,1500,220000,4 days, townhall townhall14
+4,59,1550,230000,5 days, townhall townhall14
+5,62,1600,240000,5 days 12 hours, townhall townhall14
+6,65,1675,250000,6 days, townhall townhall14
+7,68,1725,260000,6 days 12 hours, townhall townhall14
+8,71,1800,270000,7 days, townhall townhall14
+9,74,1875,280000,7 days 12 hours, townhall townhall14
+10,77,1950,290000,8 days, townhall townhall14

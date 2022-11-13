@@ -1,0 +1,16 @@
+Level,Cost gold-coin-icon,Production Rate elixir-icon,Capacity elixir-icon,Build Time,Hitpoints,Town hall Level Required
+1,150,200/h,1000,1 minute,400, townhall townhall1
+2,300,400/h,2000,1 minute,440, townhall townhall1
+3,700,600/h,3000,15 minutes,480, townhall townhall2
+4,1400,800/h,5000,0 days 1 hour,520, townhall townhall2
+5,3500,1000/h,10000,0 days 1 hour,560, townhall townhall3
+6,7000,1300/h,20000,0 days 4 hours,600, townhall townhall3
+7,14000,1600/h,30000,0 days 6 hours,640, townhall townhall4
+8,28000,1900/h,50000,0 days 8 hours,680, townhall townhall4
+9,56000,2200/h,75000,0 days 10 hours,720, townhall townhall5
+10,75000,2800/h,100000,0 days 12 hours,780, townhall townhall5
+11,100000,3500/h,150000,0 days 16 hours,860, townhall townhall7
+12,200000,4200/h,200000,1 day,960, townhall townhall8
+13,400000,4900/h,250000,3 days,1080, townhall townhall10
+14,800000,5600/h,300000,5 days,1180, townhall townhall11
+15,1200000,8640/h,350000,5 days,1280, townhall townhall12

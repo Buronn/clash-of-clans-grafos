@@ -1,0 +1,7 @@
+Level,Damage Increase,Speed Increase,Research Cost elixir-icon,Laboratory Level,Research time,Available at
+1,130%,20,-,-,-, townhall townhall7
+2,140%,22,400000,3,0 days 12 hours, townhall townhall7
+3,150%,24,800000,4,1 day, townhall townhall7
+4,160%,26,1600000,5,2 days, townhall townhall7
+5,170%,28,2400000,6,4 days, townhall townhall8
+6,180%,30,11000000,10,11 days 12 hours, townhall townhall12

@@ -1,0 +1,6 @@
+Level,Damage per Hit,Damage per Second,Cost gold-coin-icon,Load Cost elixir-icon,Build Time,Hitpoints,Town hall Level Required
+1,300,90,8000000,35000,7 days,4000, townhall townhall11
+2,350,105,10000000,40000,10 days,4400, townhall townhall11
+3,400,120,12000000,45000,14 days,4800, townhall townhall12
+4,450,135,18000000,45000,18 days,5200, townhall townhall13
+5,500,150,20000000,50000,20 days,5600, townhall townhall14

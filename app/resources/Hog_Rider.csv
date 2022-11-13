@@ -1,0 +1,12 @@
+Level,Damage per Second,Hitpoints,Research Cost dark-elixir-icon,Laboratory Level,Research time,Available at
+1,60,270,-,-,-, townhall townhall7
+2,70,312,5000,5,0 days 10 hours, townhall townhall7
+3,80,360,9000,6,0 days 20 hours, townhall townhall8
+4,92,415,16000,6,1 days 6 hours, townhall townhall8
+5,105,480,30000,7,2 days, townhall townhall9
+6,118,590,50000,8,4 days, townhall townhall10
+7,135,700,100000,9,7 days 12 hours, townhall townhall11
+8,148,810,150000,10,11 days 12 hours, townhall townhall12
+9,161,890,240000,10,14 days, townhall townhall12
+10,174,970,280000,11,16 days, townhall townhall13
+11,187,1080,320000,12,17 days, townhall townhall14

@@ -1,0 +1,5 @@
+Level,Damage per Second,Hitpoints,Research Cost elixir-icon,Laboratory Level,Research time,Available at
+1,430,4600,-,-,-, townhall townhall13
+2,470,4900,8000000,13,10 days, townhall townhall15
+3,510,5200,11000000,13,14 days, townhall townhall15
+4,550,5500,14000000,13,16 days, townhall townhall15

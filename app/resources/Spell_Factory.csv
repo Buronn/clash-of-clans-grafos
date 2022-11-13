@@ -1,0 +1,8 @@
+Level,Cost elixir-icon,Spell Capacity,Build Time,Hitpoints,Town hall Level Required,Unlocks
+1,150000,2,0 days 8 hours,425, townhall townhall5,Lightning Spell
+2,300000,4,1 day,470, townhall townhall6,Healing Spell
+3,600000,6,2 days,520, townhall townhall7,Rage Spell
+4,1200000,8,3 days 12 hours,600, townhall townhall9,Jump Spell  Freeze spell
+5,2000000,10,4 days 6 hours,720, townhall townhall10,Clone Spell
+6,3500000,10,5 days,840, townhall townhall11,Invisibility Spell
+7,9000000,10,9 days,960, townhall townhall13,Recall Spell

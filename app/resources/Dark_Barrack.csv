@@ -1,0 +1,10 @@
+Level,Cost elixir-icon,Unit Queue Length,Build Time,Hitpoints,Town hall Level Required,Unlocks
+1,100000,40,0 days 8 hours,500, townhall townhall7,Minion
+2,300000,50,0 days 16 hours,550, townhall townhall7,Hog_Rider
+3,500000,60,1 day,600, townhall townhall8,Valkyrie
+4,900000,70,1 days 12 hours,650, townhall townhall8,Golem
+5,1500000,80,2 days,700, townhall townhall9,Witch
+6,2200000,90,3 days,750, townhall townhall9,Lava_Hound
+7,3000000,100,5 days,800, townhall townhall10,Bowler
+8,4000000,100,10 days,850, townhall townhall11,Ice Golem
+9,7500000,100,13 days,900, townhall townhall12,Headhunter

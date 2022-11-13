@@ -1,0 +1,12 @@
+Level,Cost gold-coin-icon,Troop Capacity,Spell Capacity,Build Time,Hitpoints,Town hall Level Required
+1,10000,10,-,Instant,1000, townhall townhall3
+2,100000,15,-,0 days 8 hours,1400, townhall townhall4
+3,800000,20,-,0 days 12 hours,2000, townhall townhall6
+4,1200000,25,1,1 day,2600, townhall townhall8
+5,2500000,30,1,2 days,3000, townhall townhall9
+6,4200000,35,1,5 days,3400, townhall townhall10
+7,5500000,35,2,6 days 6 hours,4000, townhall townhall11
+8,85000000,40,2,9 days 18 hours,4400, townhall townhall12
+9,12000000,45,2,13 days 12 hours,4800, townhall townhall13
+10,18000000,45,3,19 days,5200, townhall townhall14
+11,20000000,50,3,20 days,5400, townhall townhall15

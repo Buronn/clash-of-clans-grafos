@@ -1,0 +1,56 @@
+Level,Damage per Second,Damage per Hit,Cost elixir-icon,Regen Time,Ability Level,Build Time,Hitpoints,Town hall Level Required
+1,50,90,1000000,20m,-,Instant,1000, townhall townhall11
+2,52,93.6,1250000,20m,-,0 days 2 hours,1021, townhall townhall11
+3,54,97.2,1500000,20m,-,0 days 4 hours,1042, townhall townhall11
+4,56,100.8,1750000,20m,-,0 days 8 hours,1064, townhall townhall11
+5,58,104.4,2000000,22m,1,0 days 12 hours,1086, townhall townhall11
+6,60,108,2250000,22m,1,0 days 18 hours,1108, townhall townhall11
+7,63,113.4,2500000,22m,1,1 day,1131, townhall townhall11
+8,66,118.8,2750000,22m,1,1 days 6 hours,1155, townhall townhall11
+9,69,124.2,3000000,22m,1,1 days 12 hours,1180, townhall townhall11
+10,72,129.6,3500000,24m,2,2 days,1206, townhall townhall11
+11,75,135,4000000,24m,2,2 days 12 hours,1233, townhall townhall11
+12,78,140.4,4500000,24m,2,3 days,1261, townhall townhall11
+13,82,147.6,5000000,24m,2,4 days,1290, townhall townhall11
+14,86,154.8,5500000,24m,2,5 days,1320, townhall townhall11
+15,90,162,6000000,26m,3,6 days,1350, townhall townhall11
+16,94,169.2,6500000,26m,3,7 days,1380, townhall townhall11
+17,98,176.4,7000000,26m,3,7 days,1410, townhall townhall11
+18,102,183.6,7500000,26m,3,7 days,1440, townhall townhall11
+19,106,190.8,8000000,26m,3,7 days,1470, townhall townhall11
+20,110,198,9000000,28m,4,7 days,1500, townhall townhall11
+21,115,207,10000000,28m,4,7 days,1530, townhall townhall12
+22,120,216,10100000,28m,4,7 days,1561, townhall townhall12
+23,125,225,10200000,28m,4,7 days,1593, townhall townhall12
+24,130,234,10300000,28m,4,7 days,1625, townhall townhall12
+25,136,244.8,10400000,30m,5,7 days,1658, townhall townhall12
+26,142,255.6,10500000,30m,5,7 days,1692, townhall townhall12
+27,148,266.4,10600000,30m,5,7 days,1726, townhall townhall12
+28,154,277.2,10700000,30m,5,7 days,1761, townhall townhall12
+29,161,289.8,10800000,30m,5,7 days,1797, townhall townhall12
+30,168,302.4,10900000,32m,6,7 days,1833, townhall townhall12
+31,175,315,11000000,32m,6,7 days,1870, townhall townhall12
+32,182,327.6,11100000,32m,6,7 days,1908, townhall townhall12
+33,190,342,11200000,32m,6,7 days,1947, townhall townhall12
+34,198,356.4,11300000,32m,6,7 days,1986, townhall townhall12
+35,206,370.8,11400000,34m,7,7 days,2026, townhall townhall12
+36,215,387,11500000,34m,7,7 days,2067, townhall townhall12
+37,224,403.2,11600000,34m,7,7 days,2109, townhall townhall12
+38,233,419.4,11700000,34m,7,7 days,2152, townhall townhall12
+39,243,437.4,11800000,34m,7,7 days,2196, townhall townhall12
+40,253,455.4,11900000,36m,8,7 days,2240, townhall townhall12
+41,260,468,12000000,36m,8,7 days 12 hours,2260, townhall townhall13
+42,266,478.8,12500000,36m,8,7 days 12 hours,2280, townhall townhall13
+43,271,487.8,13000000,36m,8,7 days 12 hours,2300, townhall townhall13
+44,275,495,13500000,36m,8,7 days 12 hours,2320, townhall townhall13
+45,279,502.2,14000000,38m,9,7 days 12 hours,2340, townhall townhall13
+46,283,509.4,14500000,38m,9,8 days,2360, townhall townhall13
+47,287,516.6,15000000,38m,9,8 days,2380, townhall townhall13
+48,291,523.8,15500000,38m,9,8 days,2400, townhall townhall13
+49,295,531,16000000,38m,9,8 days,2420, townhall townhall13
+50,299,538.2,16500000,40m,10,8 days,2440, townhall townhall13
+51,303,545.4,17000000,40m,10,8 days,2460, townhall townhall14
+52,307,552.6,17500000,40m,10,8 days,2480, townhall townhall14
+53,311,559.8,18000000,40m,10,8 days,2250, townhall townhall14
+54,315,567,18500000,40m,10,8 days,2520, townhall townhall14
+55,319,574.2,19000000,42m,11,8 days,2540, townhall townhall14

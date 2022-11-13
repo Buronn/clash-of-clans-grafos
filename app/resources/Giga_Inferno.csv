@@ -1,0 +1,6 @@
+Level,Damage per Second,Damage per Shot,Cost gold-coin-icon,Number of Targets,Build Time,Town hall Level Required
+1,300,150,0,4,0 seconds, townhall townhall14
+2,300,150,10000000,4,4 days 12 hours, townhall townhall14
+3,300,150,12000000,4,6 days, townhall townhall14
+4,300,150,15000000,4,6 days 12 hours, townhall townhall14
+5,300,150,18000000,4,8 days 6 hours, townhall townhall14

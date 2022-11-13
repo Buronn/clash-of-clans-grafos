@@ -1,0 +1,8 @@
+Level,Freeze time,Research Cost elixir-icon,Laboratory Level,Research time,Available at
+1,2.5 Seconds,-,-,-, townhall townhall9
+2,3 Seconds,1200000,8,1 days 12 hours, townhall townhall9
+3,3.5 Seconds,2000000,8,3 days, townhall townhall10
+4,4 Seconds,3600000,8,5 days, townhall townhall10
+5,4.5 Seconds,5000000,8,7 days 12 hours, townhall townhall10
+6,5 Seconds,8500000,9,9 days, townhall townhall11
+7,5.5 Seconds,11000000,10,11 days 12 hours, townhall townhall12

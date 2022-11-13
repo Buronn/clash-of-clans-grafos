@@ -1,0 +1,31 @@
+Level,Damage per Second,Damage per Hit,Cost dark-elixir-icon,Regen Time,Ability Level,Build Time,Hitpoints,Town hall Level Required
+1,374,448.8,60000,30m,-,Instant,2950, townhall townhall13
+2,383,459.6,80000,30m,-,0 days 8 hours,3000, townhall townhall13
+3,392,470.4,100000,30m,-,0 days 16 hours,3050, townhall townhall13
+4,401,481.2,120000,30m,-,1 day,3100, townhall townhall13
+5,410,492,140000,32m,1,2 days,3150, townhall townhall13
+6,418,501.6,160000,32m,1,3 days,3200, townhall townhall13
+7,426,511.2,180000,32m,1,3 days 12 hours,3250, townhall townhall13
+8,434,520.8,190000,32m,1,4 days,3300, townhall townhall13
+9,442,530.4,200000,32m,1,4 days 12 hours,3350, townhall townhall13
+10,450,540,210000,34m,2,5 days,3400, townhall townhall13
+11,458,549.6,220000,34m,2,5 days 12 hours,3450, townhall townhall13
+12,466,559.2,230000,34m,2,6 days,3500, townhall townhall13
+13,474,568.8,235000,34m,2,6 days 12 hours,3550, townhall townhall13
+14,482,578.4,240000,34m,2,7 days,3600, townhall townhall13
+15,490,588,245000,36m,3,7 days,3650, townhall townhall13
+16,498,597.6,250000,36m,3,7 days 12 hours,3700, townhall townhall13
+17,506,607.2,255000,36m,3,7 days 12 hours,3750, townhall townhall13
+18,514,616.8,260000,36m,3,7 days 12 hours,3800, townhall townhall13
+19,522,626.4,265000,36m,3,7 days 12 hours,3850, townhall townhall13
+20,530,636,270000,38m,4,7 days 12 hours,3900, townhall townhall13
+21,535,642,275000,38m,4,8 days,3940, townhall townhall13
+22,540,648,280000,38m,4,8 days,3980, townhall townhall13
+23,545,654,285000,38m,4,8 days,4020, townhall townhall13
+24,550,660,290000,39m,4,8 days,4060, townhall townhall13
+25,555,666,295000,40m,5,8 days,4100, townhall townhall13
+26,560,672,300000,40m,5,8 days,4140, townhall townhall14
+27,565,678,305000,40m,5,8 days,4180, townhall townhall14
+28,570,684,310000,40m,5,8 days,4220, townhall townhall14
+29,575,690,315000,40m,5,8 days,4260, townhall townhall14
+30,580,696,320000,42m,6,8 days,4300, townhall townhall14

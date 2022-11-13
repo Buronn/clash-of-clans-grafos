@@ -1,0 +1,10 @@
+Level,Maximum Damage per Second,Speed Decrease,Attack Rate Decrease,Research Cost dark-elixir-icon,Laboratory Level,Research time,Available at
+1,90,26%,35%,-,-,-, townhall townhall8
+2,115,30%,40%,12000,6,0 days 8 hours, townhall townhall8
+3,145,34%,45%,25000,7,1 day, townhall townhall9
+4,180,38%,50%,43000,8,2 days 14 hours, townhall townhall10
+5,220,40%,55%,70000,8,6 days 6 hours, townhall townhall11
+6,260,42%,60%,123000,10,7 days 18 hours, townhall townhall12
+7,280,44%,65%,195000,11,11 days 18 hours, townhall townhall13
+8,300,46%,68%,285000,12,16 days 18 hours, townhall townhall14
+9,320,48%,70%,320000,13,17 days 12 hours, townhall townhall15

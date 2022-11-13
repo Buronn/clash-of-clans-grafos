@@ -1,0 +1,8 @@
+Level,Cost gold-coin-icon,Push Strength,Build Time,Hitpoints,Town hall Level Required
+1,400000,1.6,0 days 8 hours,750, townhall townhall6
+2,700000,2,0 days 16 hours,800, townhall townhall6
+3,1100000,2.4,1 day,850, townhall townhall7
+4,1500000,2.8,1 days 12 hours,900, townhall townhall8
+5,2000000,3.2,2 days,950, townhall townhall9
+6,3000000,3.6,4 days,1000, townhall townhall10
+7,6000000,4,6 days 12 hours,1050, townhall townhall11

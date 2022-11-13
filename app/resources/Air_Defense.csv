@@ -1,0 +1,14 @@
+Level,Damage per Second,Damage per Shot,Cost gold-coin-icon,Build Time,Hitpoints,Town hall Level Required
+1,80,80,22000,0 days 3 hours,800, townhall townhall4
+2,110,110,90000,0 days 12 hours,850, townhall townhall4
+3,140,140,270000,0 days 16 hours,900, townhall townhall5
+4,160,160,500000,1 day,950, townhall townhall6
+5,190,190,1000000,1 days 12 hours,1000, townhall townhall7
+6,230,230,1350000,2 days,1050, townhall townhall8
+7,280,280,1750000,3 days,1100, townhall townhall9
+8,320,320,3000000,4 days 6 hours,1200, townhall townhall10
+9,360,360,4200000,6 days 6 hours,1300, townhall townhall11
+10,400,400,6500000,9 days 18 hours,1400, townhall townhall12
+11,440,440,10500000,12 days,1500, townhall townhall13
+12,500,500,17000000,17 days,1650, townhall townhall14
+13,540,540,19500000,18 days,1750, townhall townhall15

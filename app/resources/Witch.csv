@@ -1,0 +1,7 @@
+Level,Damage per Second,Damage per Attack,Skeletons Summoned,Hitpoints,Research Cost dark-elixir-icon,Laboratory Level,Research time,Available at
+1,100,70,6 (Limit 12),320,-,-,-, townhall townhall9
+2,120,84,8 (Limit 16),320,50000,7,4 days, townhall townhall9
+3,140,98,10 (Limit 20),400,68000,8,4 days 18 hours, townhall townhall10
+4,160,112,12 (Limit 24),440,90000,9,6 days 18 hours, townhall townhall11
+5,180,126,14 (Limit 28),480,140000,10,10 days, townhall townhall12
+6,200,140,15 (Limit 30),520,340000,13,17 days 12 hours, townhall townhall15

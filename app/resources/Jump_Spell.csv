@@ -1,0 +1,6 @@
+Level,Spell Duration,Research Cost elixir-icon,Laboratory Level,Research time,Available at
+1,20 Seconds,-,-,-, townhall townhall9
+2,40 Seconds,2000000,5,4 days, townhall townhall9
+3,60 Seconds,3400000,8,6 days, townhall townhall10
+4,80 Seconds,9000000,11,11 days 6 hours, townhall townhall13
+5,100 Seconds,16500000,13,16 days 12 hours, townhall townhall15
