@@ -1,4 +1,4 @@
-Level,Cost gold-coin-icon,Build Time,Hitpoints,Town hall Level Required
-1,14000000,14 days,2500, townhall townhall15
-2,16000000,16 days,2800, townhall townhall15
-3,18000000,18 days,3100, townhall townhall15
+Level,Gold Cost,Build Time,Town hall Level Required
+1,14000000,14 days, townhall townhall15
+2,16000000,16 days, townhall townhall15
+3,18000000,18 days, townhall townhall15

@@ -1,14 +1,14 @@
-Name,Level,Cost gold-coin-icon,Build Time,Town hall Level Required,Research Cost elixir-icon,Laboratory Level,Research time,Available at,Cost dark-elixir-icon,Cost elixir-icon,Unlocks,Research Cost dark-elixir-icon,Production Rate dark-elixir-icon,Capacity dark-elixir-icon,Storage Capacity dark-elixir-icon,Load Cost elixir-icon,Production Rate elixir-icon,Capacity elixir-icon,Storage Capacity elixir-icon,Production Rate gold-coin-icon,Capacity gold-coin-icon,Storage Capacity gold-coin-icon,Load Cost dark-elixir-icon,Cumulative Cost
-Army_Camp,1,,5 minutes, townhall townhall1,,,,,,200.0,,,,,,,,,,,,,,
-Barrack,1,,Instant, townhall townhall1,,,,,,200.0,Barbarian,,,,,,,,,,,,,
-Barrack,2,,1 minute, townhall townhall1,,,,,,1000.0,Archer,,,,,,,,,,,,,
-Barrack,3,,15 minutes, townhall townhall1,,,,,,2500.0,Giant,,,,,,,,,,,,,
-Battle_Builder_Hut,1,0,Instant, townhall townhall1,,,,,,,,,,,,,,,,,,,,
-Cannon,1,250,10 seconds, townhall townhall1,,,,,,,,,,,,,,,,,,,,
-Cannon,2,1000,15 minutes, townhall townhall1,,,,,,,,,,,,,,,,,,,,
-Elixir_Collector,1,150,1 minute, townhall townhall1,,,,,,,,,,,,,200/h,1000.0,,,,,,
-Elixir_Collector,2,300,1 minute, townhall townhall1,,,,,,,,,,,,,400/h,2000.0,,,,,,
-Elixir_Storage,1,300,1 minute, townhall townhall1,,,,,,,,,,,,,,,1500.0,,,,,
-Gold_Mine,1,,1 minute, townhall townhall1,,,,,,150.0,,,,,,,,,,200/h,1000.0,,,
-Gold_Mine,2,,1 minute, townhall townhall1,,,,,,300.0,,,,,,,,,,400/h,2000.0,,,
-Gold_Storage,1,,1 minute, townhall townhall1,,,,,,300.0,,,,,,,,,,,,1500.0,,
+Name,Quantity,Level,Build Time,Town hall Level Required
+Army_Camp,1,1,5 minutes, townhall townhall1
+Barrack,1,1,Instant, townhall townhall1
+Barrack,1,2,1 minute, townhall townhall1
+Barrack,1,3,15 minutes, townhall townhall1
+Battle_Builder_Hut,-,1,Instant, townhall townhall1
+Cannon,2,1,10 seconds, townhall townhall1
+Cannon,2,2,15 minutes, townhall townhall1
+Elixir_Collector,1,1,1 minute, townhall townhall1
+Elixir_Collector,1,2,1 minute, townhall townhall1
+Elixir_Storage,1,1,1 minute, townhall townhall1
+Gold_Mine,1,1,1 minute, townhall townhall1
+Gold_Mine,1,2,1 minute, townhall townhall1
+Gold_Storage,1,1,1 minute, townhall townhall1

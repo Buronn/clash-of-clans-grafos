@@ -1,8 +1,8 @@
-Level,Cost elixir-icon,Unit Queue Length,Build Time,Hitpoints,Town hall Level Required,Unlocks
-1,3500000,20,4 days 6 hours,1000, townhall townhall12,Wall Wrecker
-2,5500000,20,5 days 12 hours,1100, townhall townhall12,Battle Blimp
-3,7500000,20,7 days,1200, townhall townhall12,Stone Slammer
-4,11000000,20,10 days 12 hours,1300, townhall townhall13,Siege Barracks
-5,12000000,20,12 days,1400, townhall townhall13,Log Launcher
-6,16500000,20,17 days,1500, townhall townhall14,Flame Flinger
-7,19000000,20,18 days,1600, townhall townhall15,Battle Drill
+Level,Elixir Cost,Build Time,Town hall Level Required
+1,3500000,4 days 6 hours, townhall townhall12
+2,5500000,5 days 12 hours, townhall townhall12
+3,7500000,7 days, townhall townhall12
+4,11000000,10 days 12 hours, townhall townhall13
+5,12000000,12 days, townhall townhall13
+6,16500000,17 days, townhall townhall14
+7,19000000,18 days, townhall townhall15

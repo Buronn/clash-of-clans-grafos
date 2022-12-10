@@ -1,80 +1,27 @@
-Name,Level,Cost gold-coin-icon,Build Time,Town hall Level Required,Research Cost elixir-icon,Laboratory Level,Research time,Available at,Cost dark-elixir-icon,Cost elixir-icon,Unlocks,Research Cost dark-elixir-icon,Production Rate dark-elixir-icon,Capacity dark-elixir-icon,Storage Capacity dark-elixir-icon,Load Cost elixir-icon,Production Rate elixir-icon,Capacity elixir-icon,Storage Capacity elixir-icon,Production Rate gold-coin-icon,Capacity gold-coin-icon,Storage Capacity gold-coin-icon,Load Cost dark-elixir-icon,Cumulative Cost
-Air_Bomb,10,9000000,9 days, townhall townhall15,,,,,,,,,,,,,,,,,,,,
-Air_Defense,13,19500000,18 days, townhall townhall15,,,,,,,,,,,,,,,,,,,,
-Archer,11,,,,16000000,13,14 days, townhall townhall15,,,,,,,,,,,,,,,,
-Archer_Tower,21,18500000,17 days, townhall townhall15,,,,,,,,,,,,,,,,,,,,
-Army_Camp,12,,16 days, townhall townhall15,,,,,,19000000.0,,,,,,,,,,,,,,
-Barbarian,11,,,,16000000,13,14 days, townhall townhall15,,,,,,,,,,,,,,,,
-Battle_Drill,2,,,,8000000,13,10 days, townhall townhall15,,,,,,,,,,,,,,,,
-Battle_Drill,3,,,,11000000,13,14 days, townhall townhall15,,,,,,,,,,,,,,,,
-Battle_Drill,4,,,,14000000,13,16 days, townhall townhall15,,,,,,,,,,,,,,,,
-Bat_Spell,6,,,,,13,18 days, townhall townhall15,,,,330000,,,,,,,,,,,,
-Bomb,11,8000000,8 days, townhall townhall15,,,,,,,,,,,,,,,,,,,,
-Bomb_Tower,10,20000000,18 days, townhall townhall15,,,,,,,,,,,,,,,,,,,,
-Cannon,21,18000000,17 days, townhall townhall15,,,,,,,,,,,,,,,,,,,,
-Clan_Castle,11,20000000,20 days, townhall townhall15,,,,,,,,,,,,,,,,,,,,
-Dark_Elixir_Storage,10,,15 days, townhall townhall15,,,,,,12500000.0,,,,,350000.0,,,,,,,,,
-Diggy,1,,,,,,-, townhall townhall15,,,,-,,,,,,,,,,,,
-Diggy,2,,,,,,3 days, townhall townhall15,,,,215000,,,,,,,,,,,,
-Diggy,3,,,,,,4 days, townhall townhall15,,,,225000,,,,,,,,,,,,
-Diggy,4,,,,,,5 days, townhall townhall15,,,,235000,,,,,,,,,,,,
-Diggy,5,,,,,,5 days 12 hours, townhall townhall15,,,,245000,,,,,,,,,,,,
-Diggy,6,,,,,,6 days, townhall townhall15,,,,255000,,,,,,,,,,,,
-Diggy,7,,,,,,6 days 12 hours, townhall townhall15,,,,265000,,,,,,,,,,,,
-Diggy,8,,,,,,7 days, townhall townhall15,,,,275000,,,,,,,,,,,,
-Diggy,9,,,,,,7 days 12 hours, townhall townhall15,,,,285000,,,,,,,,,,,,
-Diggy,10,,,,,,8 days, townhall townhall15,,,,295000,,,,,,,,,,,,
-Electro_Dragon,6,,,,20000000,13,18 days, townhall townhall15,,,,,,,,,,,,,,,,
-Elixir_Storage,16,6500000,12 days, townhall townhall15,,,,,,,,,,,,,,,5000000.0,,,,,
-Frosty,1,,,,,,-, townhall townhall15,,,,-,,,,,,,,,,,,
-Frosty,2,,,,,,3 days, townhall townhall15,,,,215000,,,,,,,,,,,,
-Frosty,3,,,,,,4 days, townhall townhall15,,,,225000,,,,,,,,,,,,
-Frosty,4,,,,,,5 days, townhall townhall15,,,,235000,,,,,,,,,,,,
-Frosty,5,,,,,,5 days 12 hours, townhall townhall15,,,,245000,,,,,,,,,,,,
-Frosty,6,,,,,,6 days, townhall townhall15,,,,255000,,,,,,,,,,,,
-Frosty,7,,,,,,6 days 12 hours, townhall townhall15,,,,265000,,,,,,,,,,,,
-Frosty,8,,,,,,7 days, townhall townhall15,,,,275000,,,,,,,,,,,,
-Frosty,9,,,,,,7 days 12 hours, townhall townhall15,,,,285000,,,,,,,,,,,,
-Frosty,10,,,,,,8 days, townhall townhall15,,,,295000,,,,,,,,,,,,
-Giant,11,,,,16500000,13,16 days, townhall townhall15,,,,,,,,,,,,,,,,
-Gold_Storage,16,,12 days, townhall townhall15,,,,,,6500000.0,,,,,,,,,,,,5000000.0,,
-Golem,12,,,,,13,17 days, townhall townhall15,,,,330000,,,,,,,,,,,,
-Healing_Spell,9,,,,17000000,13,17 days, townhall townhall15,,,,,,,,,,,,,,,,
-Jump_Spell,5,,,,16500000,13,16 days 12 hours, townhall townhall15,,,,,,,,,,,,,,,,
-Laboratory,13,,12 days, townhall townhall15,,,,,,12500000.0,,,,,,,,,,,,,,
-Lightning_Spell,10,,,,16000000,13,16 days, townhall townhall15,,,,,,,,,,,,,,,,
-Miner,9,,,,18500000,13,17 days, townhall townhall15,,,,,,,,,,,,,,,,
-Minion,11,,,,,13,16 days 12 hours, townhall townhall15,,,,310000,,,,,,,,,,,,
-Mortar,15,19000000,18 days, townhall townhall15,,,,,,,,,,,,,,,,,,,,
-Pet_House,5,,19 days, townhall townhall15,,,,,,19750000.0,Frosty,,,,,,,,,,,,,
-Pet_House,6,,19 days 6 hours, townhall townhall15,,,,,,20000000.0,Diggy,,,,,,,,,,,,,
-Pet_House,7,,19 days 12 hours, townhall townhall15,,,,,,20250000.0,Poison Lizard,,,,,,,,,,,,,
-Pet_House,8,,19 days 18 hours, townhall townhall15,,,,,,20500000.0,Phoenix,,,,,,,,,,,,,
-Phoenix,1,,,,,,-, townhall townhall15,,,,-,,,,,,,,,,,,
-Phoenix,2,,,,,,3 days, townhall townhall15,,,,215000,,,,,,,,,,,,
-Phoenix,3,,,,,,4 days, townhall townhall15,,,,225000,,,,,,,,,,,,
-Phoenix,4,,,,,,5 days, townhall townhall15,,,,235000,,,,,,,,,,,,
-Phoenix,5,,,,,,5 days 12 hours, townhall townhall15,,,,245000,,,,,,,,,,,,
-Phoenix,6,,,,,,6 days, townhall townhall15,,,,255000,,,,,,,,,,,,
-Phoenix,7,,,,,,6 days 12 hours, townhall townhall15,,,,265000,,,,,,,,,,,,
-Phoenix,8,,,,,,7 days, townhall townhall15,,,,275000,,,,,,,,,,,,
-Phoenix,9,,,,,,7 days 12 hours, townhall townhall15,,,,285000,,,,,,,,,,,,
-Phoenix,10,,,,,,8 days, townhall townhall15,,,,295000,,,,,,,,,,,,
-Poison_Lizard,1,,,,,,-, townhall townhall15,,,,-,,,,,,,,,,,,
-Poison_Lizard,2,,,,,,3 days, townhall townhall15,,,,215000,,,,,,,,,,,,
-Poison_Lizard,3,,,,,,4 days, townhall townhall15,,,,225000,,,,,,,,,,,,
-Poison_Lizard,4,,,,,,5 days, townhall townhall15,,,,235000,,,,,,,,,,,,
-Poison_Lizard,5,,,,,,5 days 12 hours, townhall townhall15,,,,245000,,,,,,,,,,,,
-Poison_Lizard,6,,,,,,6 days, townhall townhall15,,,,255000,,,,,,,,,,,,
-Poison_Lizard,7,,,,,,6 days 12 hours, townhall townhall15,,,,265000,,,,,,,,,,,,
-Poison_Lizard,8,,,,,,7 days, townhall townhall15,,,,275000,,,,,,,,,,,,
-Poison_Lizard,9,,,,,,7 days 12 hours, townhall townhall15,,,,285000,,,,,,,,,,,,
-Poison_Lizard,10,,,,,,8 days, townhall townhall15,,,,295000,,,,,,,,,,,,
-Poison_Spell,9,,,,,13,17 days 12 hours, townhall townhall15,,,,320000,,,,,,,,,,,,
-Wall,16,8000000 gold-coin-icon,, townhall townhall15,,,,,,,,,,,,,,,,,,,,22991050.0
-Wall_Breaker,11,,,,16500000,13,16 days, townhall townhall15,,,,,,,,,,,,,,,,
-Witch,6,,,,,13,17 days 12 hours, townhall townhall15,,,,340000,,,,,,,,,,,,
-Wizard,11,,,,17200000,13,16 days, townhall townhall15,,,,,,,,,,,,,,,,
-Wizard_Tower,15,19200000,18 days, townhall townhall15,,,,,,,,,,,,,,,,,,,,
-Workshop,7,,18 days, townhall townhall15,,,,,,19000000.0,Battle Drill,,,,,,,,,,,,,
-X-Bow,10,20000000,19 days, townhall townhall15,,,,,,,,,,,,30000.0,,,,,,,,
+Name,Quantity,Level,Build Time,Town hall Level Required
+Air_Bomb,7,10,9 days, townhall townhall15
+Air_Defense,4,13,18 days, townhall townhall15
+Archer_Tower,8,21,17 days, townhall townhall15
+Army_Camp,4,12,16 days, townhall townhall15
+Bomb,8,11,8 days, townhall townhall15
+Bomb_Tower,2,10,18 days, townhall townhall15
+Cannon,7,21,17 days, townhall townhall15
+Clan_Castle,1,11,20 days, townhall townhall15
+Dark_Elixir_Storage,1,10,15 days, townhall townhall15
+Elixir_Storage,4,16,12 days, townhall townhall15
+Gold_Storage,4,16,12 days, townhall townhall15
+Laboratory,1,13,12 days, townhall townhall15
+Monolith,1,1,18 days, townhall townhall15
+Monolith,1,2,19 days, townhall townhall15
+Mortar,4,15,18 days, townhall townhall15
+Pet_House,1,5,19 days, townhall townhall15
+Pet_House,1,6,19 days 6 hours, townhall townhall15
+Pet_House,1,7,19 days 12 hours, townhall townhall15
+Pet_House,1,8,19 days 18 hours, townhall townhall15
+Spell_Tower,2,1,14 days, townhall townhall15
+Spell_Tower,2,2,16 days, townhall townhall15
+Spell_Tower,2,3,18 days, townhall townhall15
+Wall,325,16,, townhall townhall15
+Wizard_Tower,5,15,18 days, townhall townhall15
+Workshop,1,7,18 days, townhall townhall15
+X-Bow,4,10,19 days, townhall townhall15

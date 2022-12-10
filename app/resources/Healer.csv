@@ -1,8 +1,0 @@
-Level,Healing per Second,Healing per Pulse,Healing per Second on Heroes,Hitpoints,Research Cost elixir-icon,Laboratory Level,Research time,Available at
-1,35,24.5,19,500,-,-,-, townhall townhall7
-2,42,29.4,23,600,450000,5,0 days 12 hours, townhall townhall7
-3,55,38.5,30,840,900000,6,1 day, townhall townhall8
-4,65,45.5,35,1176,2700000,7,2 days, townhall townhall9
-5,72,50.4,48,1500,6000000,9,10 days, townhall townhall11
-6,72,50.4,56,1600,13000000,11,14 days, townhall townhall13
-7,72,50.4,62,1700,17000000,12,17 days, townhall townhall14

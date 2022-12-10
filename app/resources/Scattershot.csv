@@ -1,4 +1,4 @@
-Level,Damage per Second,Damage per Shot,Cost gold-coin-icon,Build Time,Hitpoints,Town hall Level Required
-1,140,451.92,15000000,15 days,3600, townhall townhall13
-2,170,548.76,17000000,17 days,4200, townhall townhall13
-3,190,613.32,19000000,19 days,4800, townhall townhall14
+Level,Gold Cost,Build Time,Town hall Level Required
+1,15000000,15 days, townhall townhall13
+2,17000000,17 days, townhall townhall13
+3,19000000,19 days, townhall townhall14

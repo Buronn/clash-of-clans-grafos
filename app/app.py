@@ -4,12 +4,12 @@ import os
 pd.options.mode.chained_assignment = None
 
 IMPORTANT_COLUMNS=["Name","Level","Cost gold-coin-icon","Build Time","Town hall Level Required",
-                   "Research Cost elixir-icon","Laboratory Level","Research time","Available at",
-                   "Cost dark-elixir-icon","Cost elixir-icon","Unlocks","Research Cost dark-elixir-icon",
-                   "Production Rate dark-elixir-icon","Capacity dark-elixir-icon","Storage Capacity dark-elixir-icon",
-                   "Load Cost elixir-icon","Production Rate elixir-icon","Capacity elixir-icon",
+                   "Research time","Available at",
+                   "Cost dark-elixir-icon","Cost elixir-icon","Unlocks",
+                   "Capacity dark-elixir-icon","Storage Capacity dark-elixir-icon",
+                   "Production Rate elixir-icon","Capacity elixir-icon",
                    "Storage Capacity elixir-icon","Production Rate gold-coin-icon","Capacity gold-coin-icon",
-                   "Storage Capacity gold-coin-icon","Load Cost dark-elixir-icon","Cumulative Cost"]
+                   "Storage Capacity gold-coin-icon"]
 
 def clean_columns(df):
     df.drop(columns=[col for col in df.columns if col not in IMPORTANT_COLUMNS], inplace=True)

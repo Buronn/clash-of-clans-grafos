@@ -1,10 +1,21 @@
-Name,Level,Cost gold-coin-icon,Build Time,Town hall Level Required,Research Cost elixir-icon,Laboratory Level,Research time,Available at,Cost dark-elixir-icon,Cost elixir-icon,Unlocks,Research Cost dark-elixir-icon,Production Rate dark-elixir-icon,Capacity dark-elixir-icon,Storage Capacity dark-elixir-icon,Load Cost elixir-icon,Production Rate elixir-icon,Capacity elixir-icon,Storage Capacity elixir-icon,Production Rate gold-coin-icon,Capacity gold-coin-icon,Storage Capacity gold-coin-icon,Load Cost dark-elixir-icon,Cumulative Cost
-Archer,1,,,,-,-,-, townhall townhall3,,,,,,,,,,,,,,,,
-Archer,2,,,,30000,1,0 days 3 hours, townhall townhall3,,,,,,,,,,,,,,,,
-Archer_Tower,3,5000,45 minutes, townhall townhall3,,,,,,,,,,,,,,,,,,,,
-Barbarian,1,,,,-,-,-, townhall townhall3,,,,,,,,,,,,,,,,
-Barbarian,2,,,,20000,1,0 days 2 hours, townhall townhall3,,,,,,,,,,,,,,,,
-Barrack,5,,0 days 8 hours, townhall townhall3,,,,,,20000.0,Wall Breaker,,,,,,,,,,,,,
-Cannon,4,16000,0 days 1 hour, townhall townhall3,,,,,,,,,,,,,,,,,,,,
-Goblin,1,,,,-,-,-, townhall townhall3,,,,,,,,,,,,,,,,
-Goblin,2,,,,45000,1,0 days 5 hours, townhall townhall3,,,,,,,,,,,,,,,,
+Name,Quantity,Level,Build Time,Town hall Level Required
+Archer_Tower,1,3,45 minutes, townhall townhall3
+Army_Camp,2,3,0 days 2 hours, townhall townhall3
+Barrack,1,5,0 days 8 hours, townhall townhall3
+Bomb,2,1,Instant, townhall townhall3
+Bomb,2,2,15 minutes, townhall townhall3
+Cannon,2,4,0 days 1 hour, townhall townhall3
+Clan_Castle,1,1,Instant, townhall townhall3
+Elixir_Collector,3,5,0 days 1 hour, townhall townhall3
+Elixir_Collector,3,6,0 days 4 hours, townhall townhall3
+Elixir_Storage,2,4,0 days 1 hour, townhall townhall3
+Elixir_Storage,2,5,0 days 2 hours, townhall townhall3
+Elixir_Storage,2,6,0 days 3 hours, townhall townhall3
+Gold_Mine,3,5,0 days 1 hour, townhall townhall3
+Gold_Mine,3,6,0 days 4 hours, townhall townhall3
+Gold_Storage,2,4,0 days 1 hour, townhall townhall3
+Gold_Storage,2,5,0 days 2 hours, townhall townhall3
+Gold_Storage,2,6,0 days 3 hours, townhall townhall3
+Laboratory,1,1,1 minute, townhall townhall3
+Mortar,1,1,0 days 3 hours, townhall townhall3
+Wall,50,3,, townhall townhall3

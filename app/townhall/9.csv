@@ -1,51 +1,33 @@
-Name,Level,Cost gold-coin-icon,Build Time,Town hall Level Required,Research Cost elixir-icon,Laboratory Level,Research time,Available at,Cost dark-elixir-icon,Cost elixir-icon,Unlocks,Research Cost dark-elixir-icon,Production Rate dark-elixir-icon,Capacity dark-elixir-icon,Storage Capacity dark-elixir-icon,Load Cost elixir-icon,Production Rate elixir-icon,Capacity elixir-icon,Storage Capacity elixir-icon,Production Rate gold-coin-icon,Capacity gold-coin-icon,Storage Capacity gold-coin-icon,Load Cost dark-elixir-icon,Cumulative Cost
-Air_Bomb,4,600000,1 day, townhall townhall9,,,,,,,,,,,,,,,,,,,,
-Archer,6,,,,2000000,7,1 days 12 hours, townhall townhall9,,,,,,,,,,,,,,,,
-Army_Camp,7,,2 days, townhall townhall9,,,,,,1500000.0,,,,,,,,,,,,,,
-Baby_Dragon,1,,,,-,-,-, townhall townhall9,,,,,,,,,,,,,,,,
-Baby_Dragon,2,,,,2000000,7,2 days, townhall townhall9,,,,,,,,,,,,,,,,
-Balloon,6,,,,2750000,7,3 days 12 hours, townhall townhall9,,,,,,,,,,,,,,,,
-Barbarian,6,,,,1400000,7,1 days 12 hours, townhall townhall9,,,,,,,,,,,,,,,,
-Barrack,11,,4 days, townhall townhall9,,,,,,2600000.0,Baby Dragon,,,,,,,,,,,,,
-Bomb,6,500000,1 days 12 hours, townhall townhall9,,,,,,,,,,,,,,,,,,,,
-Bomb_Tower,3,1800000,2 days, townhall townhall9,,,,,,,,,,,,,,,,,,,,
-Cannon,11,1000000,1 days 12 hours, townhall townhall9,,,,,,,,,,,,,,,,,,,,
-Clan_Castle,5,2500000,2 days, townhall townhall9,,,,,,,,,,,,,,,,,,,,
-Dark_Barrack,5,,2 days, townhall townhall9,,,,,,1500000.0,Witch,,,,,,,,,,,,,
-Dark_Barrack,6,,3 days, townhall townhall9,,,,,,2200000.0,Lava_Hound,,,,,,,,,,,,,
-Dark_Elixir_Storage,5,,2 days, townhall townhall9,,,,,,2000000.0,,,,,140000.0,,,,,,,,,
-Dark_Elixir_Storage,6,,3 days, townhall townhall9,,,,,,3000000.0,,,,,180000.0,,,,,,,,,
-Dark_Spell_Factory,3,,3 days, townhall townhall9,,,,,,600000.0,Haste Spell,,,,,,,,,,,,,
-Dark_Spell_Factory,4,,4 days, townhall townhall9,,,,,,1200000.0,Skeleton Spell,,,,,,,,,,,,,
-Dragon,4,,,,3000000,7,3 days, townhall townhall9,,,,,,,,,,,,,,,,
-Earthquake_Spell,3,,,,,7,1 days 12 hours, townhall townhall9,,,,30000,,,,,,,,,,,,
-Freeze_Spell,1,,,,-,-,-, townhall townhall9,,,,,,,,,,,,,,,,
-Freeze_Spell,2,,,,1200000,8,1 days 12 hours, townhall townhall9,,,,,,,,,,,,,,,,
-Giant,6,,,,2000000,7,2 days, townhall townhall9,,,,,,,,,,,,,,,,
-Goblin,6,,,,2000000,7,1 days 12 hours, townhall townhall9,,,,,,,,,,,,,,,,
-Golem,3,,,,,7,2 days 12 hours, townhall townhall9,,,,20000,,,,,,,,,,,,
-Golem,4,,,,,7,3 days 18 hours, townhall townhall9,,,,30000,,,,,,,,,,,,
-Haste_Spell,1,,,,,-,-, townhall townhall9,,,,-,,,,,,,,,,,,
-Haste_Spell,2,,,,,7,1 days 12 hours, townhall townhall9,,,,20000,,,,,,,,,,,,
-Healer,4,,,,2700000,7,2 days, townhall townhall9,,,,,,,,,,,,,,,,
-Healing_Spell,6,,,,1800000,7,4 days, townhall townhall9,,,,,,,,,,,,,,,,
-Hog_Rider,5,,,,,7,2 days, townhall townhall9,,,,30000,,,,,,,,,,,,
-Jump_Spell,1,,,,-,-,-, townhall townhall9,,,,,,,,,,,,,,,,
-Jump_Spell,2,,,,2000000,5,4 days, townhall townhall9,,,,,,,,,,,,,,,,
-Laboratory,7,,1 day, townhall townhall9,,,,,,800000.0,,,,,,,,,,,,,,
-Lava_Hound,1,,,,,-,-, townhall townhall9,,,,-,,,,,,,,,,,,
-Lava_Hound,2,,,,,7,5 days, townhall townhall9,,,,35000,,,,,,,,,,,,
-Lightning_Spell,6,,,,1500000,7,4 days, townhall townhall9,,,,,,,,,,,,,,,,
-Minion,5,,,,,7,2 days, townhall townhall9,,,,25000,,,,,,,,,,,,
-Mortar,7,1500000,3 days, townhall townhall9,,,,,,,,,,,,,,,,,,,,
-P,4,,,,2800000,7,2 days, townhall townhall9,,,,,,,,,,,,,,,,
-Poison_Spell,3,,,,,7,1 day, townhall townhall9,,,,25000,,,,,,,,,,,,
-Skeleton_Spell,1,,,,,-,-, townhall townhall9,,,,-,,,,,,,,,,,,
-Skeleton_Trap,3,900000,1 day, townhall townhall9,,,,,,,,,,,,,,,,,,,,
-Spell_Factory,4,,3 days 12 hours, townhall townhall9,,,,,,1200000.0,Jump Spell  Freeze spell,,,,,,,,,,,,,
-Spring_Trap,4,800000,2 days, townhall townhall9,,,,,,,,,,,,,,,,,,,,
-Valkyrie,3,,,,,7,2 days, townhall townhall9,,,,12000,,,,,,,,,,,,
-Valkyrie,4,,,,,7,3 days, townhall townhall9,,,,25000,,,,,,,,,,,,
-Witch,1,,,,,-,-, townhall townhall9,,,,-,,,,,,,,,,,,
-Witch,2,,,,,7,4 days, townhall townhall9,,,,50000,,,,,,,,,,,,
-Wizard,6,,,,2200000,7,2 days, townhall townhall9,,,,,,,,,,,,,,,,
+Name,Quantity,Level,Build Time,Town hall Level Required
+Air_Bomb,4,4,1 day, townhall townhall9
+Air_Defense,4,7,3 days, townhall townhall9
+Air_Sweeper,2,5,2 days, townhall townhall9
+Archer_Tower,6,11,1 days 6 hours, townhall townhall9
+Army_Camp,4,7,2 days, townhall townhall9
+Barrack,1,11,4 days, townhall townhall9
+Bomb,6,6,1 days 12 hours, townhall townhall9
+Bomb_Tower,1,3,2 days, townhall townhall9
+Cannon,5,11,1 days 12 hours, townhall townhall9
+Clan_Castle,1,5,2 days, townhall townhall9
+Dark_Barrack,2,5,2 days, townhall townhall9
+Dark_Barrack,2,6,3 days, townhall townhall9
+Dark_Elixir_Drill,3,4,2 days, townhall townhall9
+Dark_Elixir_Drill,3,5,3 days, townhall townhall9
+Dark_Elixir_Drill,3,6,4 days, townhall townhall9
+Dark_Elixir_Storage,1,5,2 days, townhall townhall9
+Dark_Elixir_Storage,1,6,3 days, townhall townhall9
+Dark_Spell_Factory,1,3,3 days, townhall townhall9
+Dark_Spell_Factory,1,4,4 days, townhall townhall9
+Hidden_Tesla,4,7,4 days, townhall townhall9
+Laboratory,1,7,1 day, townhall townhall9
+Mortar,4,7,3 days, townhall townhall9
+Seeking_Air_Mine,4,2,1 day, townhall townhall9
+Skeleton_Trap,2,3,1 day, townhall townhall9
+Spell_Factory,1,4,3 days 12 hours, townhall townhall9
+Spring_Trap,6,4,2 days, townhall townhall9
+Wall,250,9,, townhall townhall9
+Wall,250,10,, townhall townhall9
+Wizard_Tower,4,7,2 days, townhall townhall9
+X-Bow,2,1,2 days, townhall townhall9
+X-Bow,2,2,4 days, townhall townhall9
+X-Bow,2,3,5 days, townhall townhall9

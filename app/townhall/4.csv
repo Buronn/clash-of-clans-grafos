@@ -1,17 +1,20 @@
-Name,Level,Cost gold-coin-icon,Build Time,Town hall Level Required,Research Cost elixir-icon,Laboratory Level,Research time,Available at,Cost dark-elixir-icon,Cost elixir-icon,Unlocks,Research Cost dark-elixir-icon,Production Rate dark-elixir-icon,Capacity dark-elixir-icon,Storage Capacity dark-elixir-icon,Load Cost elixir-icon,Production Rate elixir-icon,Capacity elixir-icon,Storage Capacity elixir-icon,Production Rate gold-coin-icon,Capacity gold-coin-icon,Storage Capacity gold-coin-icon,Load Cost dark-elixir-icon,Cumulative Cost
-Army_Camp,4,,0 days 5 hours, townhall townhall4,,,,,,100000.0,,,,,,,,,,,,,,
-Barrack,6,,0 days 12 hours, townhall townhall4,,,,,,120000.0,Balloon,,,,,,,,,,,,,
-Cannon,5,50000,0 days 4 hours, townhall townhall4,,,,,,,,,,,,,,,,,,,,
-Clan_Castle,2,100000,0 days 8 hours, townhall townhall4,,,,,,,,,,,,,,,,,,,,
-Elixir_Storage,7,25000,0 days 4 hours, townhall townhall4,,,,,,,,,,,,,,,100000.0,,,,,
-Elixir_Storage,8,50000,0 days 5 hours, townhall townhall4,,,,,,,,,,,,,,,225000.0,,,,,
-Giant,1,,,,-,-,-, townhall townhall4,,,,,,,,,,,,,,,,
-Giant,2,,,,40000,2,0 days 4 hours, townhall townhall4,,,,,,,,,,,,,,,,
-Gold_Storage,7,,0 days 4 hours, townhall townhall4,,,,,,25000.0,,,,,,,,,,,,100000.0,,
-Gold_Storage,8,,0 days 5 hours, townhall townhall4,,,,,,50000.0,,,,,,,,,,,,225000.0,,
-Healing_Spell,1,,,,-,-,-, townhall townhall4,,,,,,,,,,,,,,,,
-Healing_Spell,2,,,,75000,2,0 days 5 hours, townhall townhall4,,,,,,,,,,,,,,,,
-Laboratory,2,,0 days 1 hour, townhall townhall4,,,,,,25000.0,,,,,,,,,,,,,,
-Mortar,2,25000,0 days 8 hours, townhall townhall4,,,,,,,,,,,,,,,,,,,,
-Wall_Breaker,1,,,,-,-,-, townhall townhall4,,,,,,,,,,,,,,,,
-Wall_Breaker,2,,,,100000,2,0 days 6 hours, townhall townhall4,,,,,,,,,,,,,,,,
+Name,Quantity,Level,Build Time,Town hall Level Required
+Air_Defense,1,1,0 days 3 hours, townhall townhall4
+Air_Defense,1,2,0 days 12 hours, townhall townhall4
+Archer_Tower,2,4,0 days 3 hours, townhall townhall4
+Army_Camp,2,4,0 days 5 hours, townhall townhall4
+Barrack,1,6,0 days 12 hours, townhall townhall4
+Cannon,2,5,0 days 4 hours, townhall townhall4
+Clan_Castle,1,2,0 days 8 hours, townhall townhall4
+Elixir_Collector,4,7,0 days 6 hours, townhall townhall4
+Elixir_Collector,4,8,0 days 8 hours, townhall townhall4
+Elixir_Storage,2,7,0 days 4 hours, townhall townhall4
+Elixir_Storage,2,8,0 days 5 hours, townhall townhall4
+Gold_Mine,4,7,0 days 6 hours, townhall townhall4
+Gold_Mine,4,8,0 days 8 hours, townhall townhall4
+Gold_Storage,2,7,0 days 4 hours, townhall townhall4
+Gold_Storage,2,8,0 days 5 hours, townhall townhall4
+Laboratory,1,2,0 days 1 hour, townhall townhall4
+Mortar,1,2,0 days 8 hours, townhall townhall4
+Spring_Trap,2,1,Instant, townhall townhall4
+Wall,75,4,, townhall townhall4

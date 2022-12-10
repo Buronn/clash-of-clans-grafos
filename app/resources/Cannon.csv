@@ -1,22 +1,22 @@
-Level,Damage per Second,Damage per Shot,Cost gold-coin-icon,Build Time,Hitpoints,Town hall Level Required
-1,9,7.2,250,10 seconds,420, townhall townhall1
-2,11,8.8,1000,15 minutes,470, townhall townhall1
-3,15,12,4000,45 minutes,520, townhall townhall2
-4,19,15.2,16000,0 days 1 hour,570, townhall townhall3
-5,25,20,50000,0 days 4 hours,620, townhall townhall4
-6,31,24.8,100000,0 days 8 hours,670, townhall townhall5
-7,40,32,200000,0 days 8 hours,730, townhall townhall6
-8,48,38.4,300000,0 days 12 hours,800, townhall townhall7
-9,56,44.8,500000,0 days 12 hours,880, townhall townhall8
-10,64,51.2,700000,1 day,960, townhall townhall8
-11,74,59.2,1000000,1 days 12 hours,1060, townhall townhall9
-12,87,69.6,1200000,2 days,1160, townhall townhall10
-13,100,80,1700000,3 days,1260, townhall townhall10
-14,110,88,2100000,5 days,1380, townhall townhall11
-15,118,94.4,3200000,6 days,1500, townhall townhall11
-16,124,99.2,4900000,9 days,1620, townhall townhall12
-17,130,104,6300000,12 days,1740, townhall townhall12
-18,139,111.2,8200000,15 days,1870, townhall townhall13
-19,146,116.8,9800000,16 days,2000, townhall townhall13
-20,154,123.2,16500000,17 days,2150, townhall townhall14
-21,160,128,18000000,17 days,2250, townhall townhall15
+Level,Gold Cost,Build Time,Town hall Level Required
+1,250,10 seconds, townhall townhall1
+2,1000,15 minutes, townhall townhall1
+3,4000,45 minutes, townhall townhall2
+4,16000,0 days 1 hour, townhall townhall3
+5,50000,0 days 4 hours, townhall townhall4
+6,100000,0 days 8 hours, townhall townhall5
+7,200000,0 days 8 hours, townhall townhall6
+8,300000,0 days 12 hours, townhall townhall7
+9,500000,0 days 12 hours, townhall townhall8
+10,700000,1 day, townhall townhall8
+11,1000000,1 days 12 hours, townhall townhall9
+12,1200000,2 days, townhall townhall10
+13,1700000,3 days, townhall townhall10
+14,2100000,5 days, townhall townhall11
+15,3200000,6 days, townhall townhall11
+16,4900000,9 days, townhall townhall12
+17,6300000,12 days, townhall townhall12
+18,8200000,15 days, townhall townhall13
+19,9800000,16 days, townhall townhall13
+20,16500000,17 days, townhall townhall14
+21,18000000,17 days, townhall townhall15

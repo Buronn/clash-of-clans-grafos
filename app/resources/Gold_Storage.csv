@@ -1,17 +1,17 @@
-Level,Cost elixir-icon,Build Time,Hitpoints,Storage Capacity gold-coin-icon,Town hall Level Required
-1,300,1 minute,400,1500, townhall townhall1
-2,750,15 minutes,600,3000, townhall townhall2
-3,1500,30 minutes,800,6000, townhall townhall2
-4,3000,0 days 1 hour,1000,12000, townhall townhall3
-5,6000,0 days 2 hours,1200,25000, townhall townhall3
-6,12000,0 days 3 hours,1400,45000, townhall townhall3
-7,25000,0 days 4 hours,1600,100000, townhall townhall4
-8,50000,0 days 5 hours,1700,225000, townhall townhall4
-9,100000,0 days 8 hours,1800,450000, townhall townhall5
-10,250000,0 days 12 hours,1900,850000, townhall townhall6
-11,500000,0 days 16 hours,2100,1750000, townhall townhall7
-12,1000000,2 days,2150,2000000, townhall townhall11
-13,2000000,4 days,2900,3000000, townhall townhall12
-14,3500000,6 days 18 hours,3300,4500000, townhall townhall13
-15,5500000,11 days 6 hours,3700,4500000, townhall townhall14
-16,6500000,12 days,3900,5000000, townhall townhall15
+Level,Elixir Cost,Build Time,Gold Storage Capacity,Town hall Level Required
+1,300,1 minute,1500, townhall townhall1
+2,750,15 minutes,3000, townhall townhall2
+3,1500,30 minutes,6000, townhall townhall2
+4,3000,0 days 1 hour,12000, townhall townhall3
+5,6000,0 days 2 hours,25000, townhall townhall3
+6,12000,0 days 3 hours,45000, townhall townhall3
+7,25000,0 days 4 hours,100000, townhall townhall4
+8,50000,0 days 5 hours,225000, townhall townhall4
+9,100000,0 days 8 hours,450000, townhall townhall5
+10,250000,0 days 12 hours,850000, townhall townhall6
+11,500000,0 days 16 hours,1750000, townhall townhall7
+12,1000000,2 days,2000000, townhall townhall11
+13,2000000,4 days,3000000, townhall townhall12
+14,3500000,6 days 18 hours,4500000, townhall townhall13
+15,5500000,11 days 6 hours,4500000, townhall townhall14
+16,6500000,12 days,5000000, townhall townhall15

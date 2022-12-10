@@ -1,10 +1,10 @@
-Level,Cost elixir-icon,Production Rate dark-elixir-icon,Capacity dark-elixir-icon,Build Time,Hitpoints,Town hall Level Required
-1,500000,20/h,160,0 days 8 hours,800, townhall townhall7
-2,700000,30/h,300,1 day,860, townhall townhall7
-3,900000,45/h,540,1 days 12 hours,920, townhall townhall7
-4,1200000,60/h,840,2 days,980, townhall townhall9
-5,1500000,80/h,1280,3 days,1060, townhall townhall9
-6,1800000,100/h,1800,4 days,1160, townhall townhall9
-7,2400000,120/h,2400,5 days,1280, townhall townhall10
-8,3000000,140/h,3000,6 days,1380, townhall townhall11
-9,4000000,160/h,3000,7 days 12 hours,1380, townhall townhall12
+Level,Elixir Cost,Build Time,Town hall Level Required
+1,500000,0 days 8 hours, townhall townhall7
+2,700000,1 day, townhall townhall7
+3,900000,1 days 12 hours, townhall townhall7
+4,1200000,2 days, townhall townhall9
+5,1500000,3 days, townhall townhall9
+6,1800000,4 days, townhall townhall9
+7,2400000,5 days, townhall townhall10
+8,3000000,6 days, townhall townhall11
+9,4000000,7 days 12 hours, townhall townhall12

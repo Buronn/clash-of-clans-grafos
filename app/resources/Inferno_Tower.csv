@@ -1,10 +1,10 @@
-Level,Damage per Second,Cost gold-coin-icon,Load Cost dark-elixir-icon,Build Time,Hitpoints,Town hall Level Required,Multiple Mode
-1,30 100 1000,30,1700000,500,2 days 12 hours,1500, townhall townhall10
-2,36 125 1150,38,2500000,600,3 days 6 hours,1800, townhall townhall10
-3,42 140 1300,46,3800000,700,4 days 6 hours,2100, townhall townhall10
-4,54 155 1550,54,4200000,800,5 days,2400, townhall townhall11
-5,64 175 1750,64,5200000,900,6 days 6 hours,2700, townhall townhall11
-6,82 200 2000,82,7300000,1000,9 days 18 hours,3000, townhall townhall12
-7,94 225 2250,94,12000000,1100,12 days 18 hours,3300, townhall townhall13
-8,105 225 2300,105,18000000,1200,18 days,3700, townhall townhall14
-9,115 240 2400,115,21000000,1300,19 days,4000, townhall townhall15
+Level,Gold Cost,Build Time,Town hall Level Required,Multiple Mode
+1,30,500,1500, townhall townhall10
+2,38,600,1800, townhall townhall10
+3,46,700,2100, townhall townhall10
+4,54,800,2400, townhall townhall11
+5,64,900,2700, townhall townhall11
+6,82,1000,3000, townhall townhall12
+7,94,1100,3300, townhall townhall13
+8,105,1200,3700, townhall townhall14
+9,115,1300,4000, townhall townhall15

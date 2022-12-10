@@ -1,72 +1,44 @@
-Name,Level,Cost gold-coin-icon,Build Time,Town hall Level Required,Research Cost elixir-icon,Laboratory Level,Research time,Available at,Cost dark-elixir-icon,Cost elixir-icon,Unlocks,Research Cost dark-elixir-icon,Production Rate dark-elixir-icon,Capacity dark-elixir-icon,Storage Capacity dark-elixir-icon,Load Cost elixir-icon,Production Rate elixir-icon,Capacity elixir-icon,Storage Capacity elixir-icon,Production Rate gold-coin-icon,Capacity gold-coin-icon,Storage Capacity gold-coin-icon,Load Cost dark-elixir-icon,Cumulative Cost
-Air_Bomb,7,3000000,4 days 12 hours, townhall townhall13,,,,,,,,,,,,,,,,,,,,
-Air_Bomb,8,3800000,5 days 6 hours, townhall townhall13,,,,,,,,,,,,,,,,,,,,
-Air_Defense,11,10500000,12 days, townhall townhall13,,,,,,,,,,,,,,,,,,,,
-Archer_Tower,18,8500000,11 days 6 hours, townhall townhall13,,,,,,,,,,,,,,,,,,,,
-Archer_Tower,19,9800000,12 days, townhall townhall13,,,,,,,,,,,,,,,,,,,,
-Army_Camp,11,,12 days, townhall townhall13,,,,,,12000000.0,,,,,,,,,,,,,,
-Baby_Dragon,7,,,,12000000,11,14 days, townhall townhall13,,,,,,,,,,,,,,,,
-Balloon,9,,,,14000000,11,16 days, townhall townhall13,,,,,,,,,,,,,,,,
-Barrack,15,,13 days, townhall townhall13,,,,,,12500000.0,Dragon Rider,,,,,,,,,,,,,
-Battle_Blimp,4,,,,14000000,11,16 days, townhall townhall13,,,,,,,,,,,,,,,,
-Battle_Drill,1,,,,-,-,-, townhall townhall13,,,,,,,,,,,,,,,,
-Bomb_Tower,8,11000000,12 days, townhall townhall13,,,,,,,,,,,,,,,,,,,,
-Bowler,5,,,,,11,14 days 12 hours, townhall townhall13,,,,280000,,,,,,,,,,,,
-Cannon,18,8200000,15 days, townhall townhall13,,,,,,,,,,,,,,,,,,,,
-Cannon,19,9800000,16 days, townhall townhall13,,,,,,,,,,,,,,,,,,,,
-Clan_Castle,9,12000000,13 days 12 hours, townhall townhall13,,,,,,,,,,,,,,,,,,,,
-Clone_Spell,6,,,,12000000,11,15 days, townhall townhall13,,,,,,,,,,,,,,,,
-Dark_Elixir_Storage,8,,7 days 12 hours, townhall townhall13,,,,,,6700000.0,,,,,280000.0,,,,,,,,,
-Dragon,8,,,,15000000,11,16 days, townhall townhall13,,,,,,,,,,,,,,,,
-Dragon_Rider,1,,,,-,11,-, townhall townhall13,,,,,,,,,,,,,,,,
-Dragon_Rider,2,,,,16000000,11,15 days, townhall townhall13,,,,,,,,,,,,,,,,
-Eagle_Artillery,4,18000000,18 days, townhall townhall13,,,,,,,,,,,,45000.0,,,,,,,,
-Electro_Dragon,4,,,,12000000,11,12 days, townhall townhall13,,,,,,,,,,,,,,,,
-Electro_Titan,1,,,,-,12,-, townhall townhall13,,,,,,,,,,,,,,,,
-Electro_Titan,2,,,,19500000,12,15 days, townhall townhall13,,,,,,,,,,,,,,,,
-Elixir_Storage,14,3500000,6 days 18 hours, townhall townhall13,,,,,,,,,,,,,,,4500000.0,,,,,
-Flame_Flinger,4,,,,14000000,11,16 days, townhall townhall13,,,,,,,,,,,,,,,,
-Giant,10,,,,10000000,11,11 days 6 hours, townhall townhall13,,,,,,,,,,,,,,,,
-Giant_Bomb,6,5000000,7 days, townhall townhall13,,,,,,,,,,,,,,,,,,,,
-Giant_Bomb,7,7000000,9 days, townhall townhall13,,,,,,,,,,,,,,,,,,,,
-Gold_Storage,14,,6 days 18 hours, townhall townhall13,,,,,,3500000.0,,,,,,,,,,,,4500000.0,,
-Golem,10,,,,,11,12 days, townhall townhall13,,,,200000,,,,,,,,,,,,
-Headhunter,3,,,,,11,16 days, townhall townhall13,,,,240000,,,,,,,,,,,,
-Healer,6,,,,13000000,11,14 days, townhall townhall13,,,,,,,,,,,,,,,,
-Healing_Spell,8,,,,10500000,11,12 days, townhall townhall13,,,,,,,,,,,,,,,,
-Hidden_Tesla,11,13000000,16 days, townhall townhall13,,,,,,,,,,,,,,,,,,,,
-Hidden_Tesla,12,15000000,17 days, townhall townhall13,,,,,,,,,,,,,,,,,,,,
-Hog_Rider,10,,,,,11,16 days, townhall townhall13,,,,280000,,,,,,,,,,,,
-Invisibility_Spell,4,,,,15000000,11,15 days 12 hours, townhall townhall13,,,,,,,,,,,,,,,,
-Jump_Spell,4,,,,9000000,11,11 days 6 hours, townhall townhall13,,,,,,,,,,,,,,,,
-Laboratory,11,,6 days 18 hours, townhall townhall13,,,,,,6800000.0,,,,,,,,,,,,,,
-Lava_Hound,6,,,,,11,16 days, townhall townhall13,,,,270000,,,,,,,,,,,,
-Log_Launcher,1,,,,-,-,-, townhall townhall13,,,,,,,,,,,,,,,,
-Log_Launcher,2,,,,8000000,11,10 days, townhall townhall13,,,,,,,,,,,,,,,,
-Log_Launcher,3,,,,11000000,11,14 days, townhall townhall13,,,,,,,,,,,,,,,,
-Log_Launcher,4,,,,14000000,11,16 days, townhall townhall13,,,,,,,,,,,,,,,,
-Miner,7,,,,10000000,11,11 days 18 hours, townhall townhall13,,,,,,,,,,,,,,,,
-Minion,9,,,,,11,11 days 12 hours, townhall townhall13,,,,188000,,,,,,,,,,,,
-Mortar,13,9800000,12 days, townhall townhall13,,,,,,,,,,,,,,,,,,,,
-P,9,,,,14000000,11,15 days, townhall townhall13,,,,,,,,,,,,,,,,
-Poison_Spell,7,,,,,11,11 days 18 hours, townhall townhall13,,,,195000,,,,,,,,,,,,
-Recall_Spell,4,,,,17500000,11,15 days 12 hours, townhall townhall13,,,,,,,,,,,,,,,,
-Siege_Barracks,1,,,,-,-,-, townhall townhall13,,,,,,,,,,,,,,,,
-Siege_Barracks,2,,,,8000000,11,10 days, townhall townhall13,,,,,,,,,,,,,,,,
-Siege_Barracks,3,,,,11000000,11,14 days, townhall townhall13,,,,,,,,,,,,,,,,
-Siege_Barracks,4,,,,14000000,11,16 days, townhall townhall13,,,,,,,,,,,,,,,,
-Skeleton_Spell,7,,,,,11,15 days, townhall townhall13,,,,250000,,,,,,,,,,,,
-Spell_Factory,7,,9 days, townhall townhall13,,,,,,9000000.0,Recall Spell,,,,,,,,,,,,,
-Stone_Slammer,4,,,,14000000,11,16 days, townhall townhall13,,,,,,,,,,,,,,,,
-Valkyrie,8,,,,,11,16 days, townhall townhall13,,,,260000,,,,,,,,,,,,
-Wall,14,4000000 gold-coin-icon,, townhall townhall13,,,,,,,,,,,,,,,,,,,,7991050.0
-Wall_Breaker,9,,,,10000000,11,11 days, townhall townhall13,,,,,,,,,,,,,,,,
-Wall_Wrecker,4,,,,14000000,11,16 days, townhall townhall13,,,,,,,,,,,,,,,,
-Wizard,10,,,,10500000,11,11 days, townhall townhall13,,,,,,,,,,,,,,,,
-Wizard_Tower,12,10700000,12 days, townhall townhall13,,,,,,,,,,,,,,,,,,,,
-Wizard_Tower,13,12200000,12 days 18 hours, townhall townhall13,,,,,,,,,,,,,,,,,,,,
-Workshop,4,,10 days 12 hours, townhall townhall13,,,,,,11000000.0,Siege Barracks,,,,,,,,,,,,,
-Workshop,5,,12 days, townhall townhall13,,,,,,12000000.0,Log Launcher,,,,,,,,,,,,,
-X-Bow,7,10400000,12 days, townhall townhall13,,,,,,,,,,,,28000.0,,,,,,,,
-X-Bow,8,12900000,12 days 18 hours, townhall townhall13,,,,,,,,,,,,29000.0,,,,,,,,
-Yeti,3,,,,15000000,11,16 days, townhall townhall13,,,,,,,,,,,,,,,,
+Name,Quantity,Level,Build Time,Town hall Level Required
+Air_Bomb,6,7,4 days 12 hours, townhall townhall13
+Air_Bomb,6,8,5 days 6 hours, townhall townhall13
+Air_Defense,4,11,12 days, townhall townhall13
+Archer_Tower,8,18,11 days 6 hours, townhall townhall13
+Archer_Tower,8,19,12 days, townhall townhall13
+Army_Camp,4,11,12 days, townhall townhall13
+Barrack,1,15,13 days, townhall townhall13
+Bomb,7,9,4 days 12 hours, townhall townhall13
+Bomb_Tower,2,8,12 days, townhall townhall13
+Cannon,7,18,15 days, townhall townhall13
+Cannon,7,19,16 days, townhall townhall13
+Clan_Castle,1,9,13 days 12 hours, townhall townhall13
+Dark_Elixir_Storage,1,8,7 days 12 hours, townhall townhall13
+Eagle_Artillery,1,4,18 days, townhall townhall13
+Elixir_Storage,4,14,6 days 18 hours, townhall townhall13
+Giant_Bomb,6,6,7 days, townhall townhall13
+Giant_Bomb,6,7,9 days, townhall townhall13
+Gold_Storage,4,14,6 days 18 hours, townhall townhall13
+Grand_Warden,50,41,7 days 12 hours, townhall townhall13
+Grand_Warden,50,42,7 days 12 hours, townhall townhall13
+Grand_Warden,50,43,7 days 12 hours, townhall townhall13
+Grand_Warden,50,44,7 days 12 hours, townhall townhall13
+Grand_Warden,50,45,7 days 12 hours, townhall townhall13
+Grand_Warden,50,46,8 days, townhall townhall13
+Grand_Warden,50,47,8 days, townhall townhall13
+Grand_Warden,50,48,8 days, townhall townhall13
+Grand_Warden,50,49,8 days, townhall townhall13
+Grand_Warden,50,50,8 days, townhall townhall13
+Hidden_Tesla,5,11,16 days, townhall townhall13
+Hidden_Tesla,5,12,17 days, townhall townhall13
+Laboratory,1,11,6 days 18 hours, townhall townhall13
+Mortar,4,13,12 days, townhall townhall13
+Scattershot,2,1,15 days, townhall townhall13
+Scattershot,2,2,17 days, townhall townhall13
+Seeking_Air_Mine,7,4,7 days, townhall townhall13
+Spell_Factory,1,7,9 days, townhall townhall13
+Wall,300,14,, townhall townhall13
+Wizard_Tower,5,12,12 days, townhall townhall13
+Wizard_Tower,5,13,12 days 18 hours, townhall townhall13
+Workshop,1,4,10 days 12 hours, townhall townhall13
+Workshop,1,5,12 days, townhall townhall13
+X-Bow,4,7,12 days, townhall townhall13
+X-Bow,4,8,12 days 18 hours, townhall townhall13
