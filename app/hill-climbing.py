@@ -15,36 +15,47 @@ def conocerlevels(time):
     print(key_count)
     return key_count
 
+def usaelixirooro(name,resiurcesOr):
+    if name in resiurcesOr.columns:
+        return True
+    else:
+        return False
+
+
 
 def evaluate_solution(jobs,resourcesEl,resourcesOr,solution,Elixir,Oro,reg):
     trabajos=[0]*len(jobs.columns)
     maquinas=[0]*5
     porsec=reg/60
     df=[]
+    
     key_count=conocerlevels(jobs)
     for i in range(0,len(solution)):
         operacion=solution[i]
         tiemp=int(jobs.iloc[key_count[operacion],operacion])
         maquina=np.argmin(maquinas)
         boole=False
-        if(resourcesEl.iloc[key_count[operacion],operacion]!='None'):
-            if int(resourcesEl.iloc[key_count[operacion],operacion])>Elixir:
-                recursosfaltantes=int(resourcesEl.iloc[key_count[operacion],operacion])-Elixir
-                tiempoextra=recursosfaltantes/porsec
-                tiemp+=int(tiempoextra)+1
-                Elixir=0
-                boole=True
-            else:
-                Elixir-=int(resourcesEl.iloc[key_count[operacion],operacion])
-        if(resourcesOr.iloc[key_count[operacion],operacion]!='None'):
-            if int(resourcesOr.iloc[key_count[operacion],operacion])>Oro:
-                recursosfaltantes=int(resourcesOr.iloc[key_count[operacion],operacion])-Oro
-                tiempoextra=recursosfaltantes/porsec
-                tiemp+=int(tiempoextra)+1
-                Oro=0
-                boole=True
-            else:
-                Oro-=int(resourcesOr.iloc[key_count[operacion],operacion])
+        orooo=usaelixirooro(jobs.columns[operacion],resourcesOr)
+        if orooo==False:
+            if(resourcesEl.iloc[key_count[operacion],operacion]!='None'):
+                if int(resourcesEl.iloc[key_count[operacion],operacion])>Elixir:
+                    recursosfaltantes=int(resourcesEl.iloc[key_count[operacion],operacion])-Elixir
+                    tiempoextra=recursosfaltantes/porsec
+                    tiemp+=int(tiempoextra)+1
+                    Elixir=0
+                    boole=True
+                else:
+                    Elixir-=int(resourcesEl.iloc[key_count[operacion],operacion])
+        else:
+            if(resourcesOr.iloc[key_count[operacion],operacion]!='None'):
+                if int(resourcesOr.iloc[key_count[operacion],operacion])>Oro:
+                    recursosfaltantes=int(resourcesOr.iloc[key_count[operacion],operacion])-Oro
+                    tiempoextra=recursosfaltantes/porsec
+                    tiemp+=int(tiempoextra)+1
+                    Oro=0
+                    boole=True
+                else:
+                    Oro-=int(resourcesOr.iloc[key_count[operacion],operacion])
         maquinas[maquina]+=int(tiemp)
         trabajos[operacion]+=int(tiemp)
         if(maquinas[maquina]>trabajos[operacion]):
@@ -71,8 +82,8 @@ def operadormovimiento(solucion):
     return combinaciones
 
 
-def hill_climbing(solucion_inicial):
-    optimo=10000000000000000
+def hill_climbing(solucion_inicial,tiempos,recursosEl,recursosOro):
+    optimo=9999999999999999999999
     solucion=solucion_inicial
     iteraciones=0
     while iteraciones<10:
@@ -88,21 +99,30 @@ def hill_climbing(solucion_inicial):
             solucion=mejor_vecino
         iteraciones+=1
     return mejor_vecino
+def solucion_init(jobs):
+    solucion=[]
+    contador=0
+    for i in jobs.columns:
+        for j in jobs[i]:
+            if j!="None":
+                solucion.append(contador)
+        contador+=1
+    print(solucion)
+    random.shuffle(solucion)
+    return solucion
 
 def main():
-    tiempos=pd.read_csv('./test/Tiempos.csv',sep=';',index_col=0)
-    recursosOro=pd.read_csv('./test/Recursos-Oro.csv',sep=';',index_col=0)
-    recursosEl=pd.read_csv('./test/Recursos-Elixir.csv',sep=';',index_col=0)
-    solucion=[4, 1, 6, 0, 5, 3, 5, 4, 1, 1, 1, 3, 2]
-    random.shuffle(solucion)
-    print(solucion)
-    df=evaluate_solution(tiempos,recursosEl,recursosOro,solucion,1000,1000,45)
+    tiempos=pd.read_csv('./test/2_time.csv',sep=',',index_col=0)
+    recursosOro=pd.read_csv('./test/2_gold.csv',sep=';',index_col=0)
+    recursosEl=pd.read_csv('./test/2_elixir.csv',sep=';',index_col=0)
+    solucion_init(tiempos)
+    # df=evaluate_solution(tiempos,recursosEl,recursosOro,solucion,1000,1000,45)
 
-    colors = {i: f'rgb({random.randint(0,255)},{random.randint(0,255)}, {random.randint(0,255)})' for i in tiempos.columns}
+    # colors = {i: f'rgb({random.randint(0,255)},{random.randint(0,255)}, {random.randint(0,255)})' for i in tiempos.columns}
 
-    fig = ff.create_gantt(df, colors=colors, index_col='Resource', show_colorbar=True,
-                        group_tasks=True)
-    fig.show()
+    # fig = ff.create_gantt(df, colors=colors, index_col='Resource', show_colorbar=True,
+    #                     group_tasks=True)
+    # fig.show()
 
 if __name__ == '__main__':
     main()
