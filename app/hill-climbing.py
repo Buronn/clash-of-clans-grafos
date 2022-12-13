@@ -4,6 +4,7 @@ import random
 import plotly.figure_factory as ff
 from datetime import datetime,timedelta
 TODAY = datetime(2022,1,1,0,0,0)
+
 def evaluate_solution(jobs,resourcesEl,resourcesOr,solution,Elixir,Oro,reg):
     #create list with length of resources
     trabajos=[0]*len(jobs.columns)
@@ -55,35 +56,22 @@ def evaluate_solution(jobs,resourcesEl,resourcesOr,solution,Elixir,Oro,reg):
 def hill_climbing(solucion_inicial):
     return 0
 
-        
+def main():
+    tiempos=pd.read_csv('./test/Tiempos.csv',sep=';',index_col=0)
+    recursosOro=pd.read_csv('./test/Recursos-Oro.csv',sep=';',index_col=0)
+    recursosEl=pd.read_csv('./test/Recursos-Elixir.csv',sep=';',index_col=0)
+    solucion=[4, 1, 6, 0, 5, 3, 5, 4, 1, 1, 1, 3, 2]
+    random.shuffle(solucion)
+    print(solucion)
+    df=evaluate_solution(tiempos,recursosEl,recursosOro,solucion,1000,1000,45)
 
-tiempos=pd.read_csv('./test/Tiempos.csv',sep=';',index_col=0)
-recursosOro=pd.read_csv('./test/Recursos-Oro.csv',sep=';',index_col=0)
-recursosEl=pd.read_csv('./test/Recursos-Elixir.csv',sep=';',index_col=0)
-solucion=[4, 1, 6, 0, 5, 3, 5, 4, 1, 1, 1, 3, 2]
-random.shuffle(solucion)
-print(solucion)
-df=evaluate_solution(tiempos,recursosEl,recursosOro,solucion,1000,1000,45)
+    colors = {i: f'rgb({random.randint(0,255)},{random.randint(0,255)}, {random.randint(0,255)})' for i in tiempos.columns}
 
+    fig = ff.create_gantt(df, colors=colors, index_col='Resource', show_colorbar=True,
+                        group_tasks=True)
+    fig.show()
 
-# Crea una lista con los tiempos en el eje x
-# (inicio y fin de cada período)
-time = [(0, 15), (15, 35), (35, 40), (40, 120), (120, 140)]
-
-# Crea una lista con los estados en el eje y
-# (1 para trabajo y 0 para tiempo muerto)
-status = [1, 0, 1, 0, 1]
-
-# Dibuja la línea de tiempo utilizando el método broken_barh()
-
-
-
-colors = {i: f'rgb({random.randint(0,255)},{random.randint(0,255)}, {random.randint(0,255)})' for i in tiempos.columns}
-
-fig = ff.create_gantt(df, colors=colors, index_col='Resource', show_colorbar=True,
-                      group_tasks=True)
-fig.show()
-
-  
+if __name__ == '__main__':
+    main()
 
 

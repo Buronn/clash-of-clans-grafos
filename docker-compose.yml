@@ -6,5 +6,7 @@ services:
       context: ./
       dockerfile: Dockerfile
     command: tail -f /dev/null
+    ports:
+      - "8050:8050"
     volumes:
       - ./app:/app
