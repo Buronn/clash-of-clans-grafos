@@ -7,6 +7,7 @@ from config import set_chrome_options
 import pandas as pd
 
 def check_column(column):
+    '''Check if the column is a bad column'''
     BAD_COLUMNS = ["Single Mode", "Multi Mode"]
     if column in BAD_COLUMNS:
         return False
@@ -14,8 +15,11 @@ def check_column(column):
         return True
 
 def text_to_int(str):
+    '''Convert a string with a "," to an int'''
     return (str.replace(',', ''))
+
 if "__main__" == __name__:
+    # Start Selenium
     print("Selenium Version: "+str(webdriver.__version__))
     MAIN_URL = "https://www.clashtrack.com/en/wiki"
     driver = webdriver.Chrome(options=set_chrome_options())
@@ -37,6 +41,7 @@ if "__main__" == __name__:
     #h3_tags_list = []
     #h3_tags_list.append("Inferno Tower")
 
+    # Get all h3 tags
     for h3_tag in h3_tags_list:
         if h3_tag == "Town Hall":
             driver.close()
@@ -58,6 +63,7 @@ if "__main__" == __name__:
         headers_list = []
         level = False
         
+        # Get all headers and append them to a list
         for header in headers:
             if check_column(header.text):
                 if header.find_elements(by=By.TAG_NAME, value="span"):
@@ -68,6 +74,8 @@ if "__main__" == __name__:
         rows = table.find_element(by=By.TAG_NAME, value="tbody")
         rows = rows.find_elements(by=By.TAG_NAME, value="tr")
         all_cells = []
+
+        # Get all cells and append them to a list
         for row in rows:
             row = row.find_elements(by=By.TAG_NAME, value="td")
             cells_list = []
@@ -80,7 +88,10 @@ if "__main__" == __name__:
             all_cells.append(cells_list)
             print(cells_list)
             level_index += 1
+
+        # Close the driver
         driver.close()
         title_index += 1
+        # Create a dataframe and save it to a csv file
         df = pd.DataFrame(all_cells, columns=headers_list)
         df.to_csv("output2/"+h3_tag.replace(" ", "_")+".csv", index=False)

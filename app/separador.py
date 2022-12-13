@@ -114,6 +114,8 @@ def separador(townhall, output):
     df_gold = pd.DataFrame()
     df_elixir = pd.DataFrame()
     time = pd.DataFrame()
+
+    # Get the cost and time of each structure
     for index, dict in df.iterrows():
         name = dict["Name"]
         level = dict["Level"]
@@ -160,6 +162,7 @@ def separador(townhall, output):
         else:
             min_level[dict["Name"]] = dict["Level"]
 
+    # Obtain the quantity of each structure
     quantity = {}
     for index, dict in df_gold.iterrows():
         quantity[dict["Name"]] = dict["Quantity"]
@@ -170,7 +173,7 @@ def separador(townhall, output):
     df_gold.set_index("Name", inplace=True)
     df_elixir.set_index("Name", inplace=True)
 
-    # Rotate the dataframe
+    # Transpose the dataframe
     df_gold = df_gold.T
     df_elixir = df_elixir.T
 
@@ -256,7 +259,7 @@ def separador(townhall, output):
                                     df_gold.at[i, index] = get_cost(index, i+1)["costo"]
                                 else:
                                     df_gold.at[i, index] = "None"
-
+    # Same but for elixir
     for index, column in df_elixir.iteritems():
         if index != "Level":
             for i in range(0, len(column)):
@@ -283,6 +286,7 @@ def separador(townhall, output):
                                 else:
                                     df_elixir.at[i, index] = "None"
 
+    # Conact the dataframes and calculates the time of each level/structure
     df_time = pd.concat([df_gold, df_elixir], axis=1)
     df_time = df_time.loc[:,~df_time.columns.duplicated()]
     for index, column in df_time.iteritems():
@@ -298,6 +302,7 @@ def separador(townhall, output):
 
 
 def main():
+    # Create files from townhall 2 to 15
     for i in range(2,16):
         separador(str(i),"test")
 

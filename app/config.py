@@ -2,9 +2,7 @@ from selenium import webdriver
 from xml.dom.minidom import Element
 from selenium.webdriver.chrome.options import Options
 def set_chrome_options() -> None:
-    """Sets chrome options for Selenium.
-    Chrome options for headless browser is enabled.
-    """
+    """Sets chrome options for Selenium."""
     chrome_options = Options()
     chrome_options.add_argument("--headless")
     chrome_options.add_argument("--no-sandbox")

@@ -3,6 +3,7 @@ import os
 # Ignore pandas warnings
 pd.options.mode.chained_assignment = None
 
+# In this code, we will clean the columns of the csv files and create a new csv file with the columns we want
 IMPORTANT_COLUMNS=["Name","Level","Cost gold-coin-icon","Build Time","Town hall Level Required",
                    "Research time","Available at",
                    "Cost dark-elixir-icon","Cost elixir-icon","Unlocks",
@@ -23,6 +24,7 @@ def clean_columns(df):
 #     return df
     
 def read_dir(dir, townhall_level):
+    '''Read all csv files in a directory and return a dataframe with all the data cleaned'''
     print("------------------- TOWNHALL LEVEL: "+str(townhall_level)+" -------------------")
     # Read all files in directory
     files = os.listdir(dir)
