@@ -176,7 +176,6 @@ def separador(townhall, output):
 
     # Make a row from 1 to max level, if the row doesn't exist in the dataframe add a NaN
     max_possible_level = max(max_level.values())
-    print(max_possible_level)
     # If max possible level is greater than quantity of rows, add empty rows
     if max_possible_level > len(df_gold):
         for i in range(len(df_gold), max_possible_level):
@@ -224,6 +223,12 @@ def separador(townhall, output):
                 df_gold[index+"#"+str(i)] = column
             # Remove the original column
             df_gold.drop(index, axis=1, inplace=True)
+    for index, column in df_elixir.iteritems():
+        if index != "Level":
+            for i in range(0, quantity[index]):
+                df_elixir[index+"#"+str(i)] = column
+            # Remove the original column
+            df_elixir.drop(index, axis=1, inplace=True)
 
     # For each level, if the value is "None", replace it with the value of the cost of the structure
     for index, column in df_gold.iteritems():
@@ -293,7 +298,8 @@ def separador(townhall, output):
 
 
 def main():
-    separador("1","test")
+    for i in range(2,16):
+        separador(str(i),"test")
 
 
 if __name__ == "__main__":
