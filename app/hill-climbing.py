@@ -163,6 +163,7 @@ def hill_climbing(solucion_inicial,tiempos,recursosEl,recursosOro,storageE,stora
                 optimo=valor
                 makespan_record.append(optimo)
                 mejor_vecino=vecino
+                break
         if mejor_vecino!=None:
             solucion=mejor_vecino
         else:
