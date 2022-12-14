@@ -1,0 +1,29 @@
+Name,Quantity,Level,Build Time,Town hall Level Required
+Air_Bomb,2,3,0 days 12 hours, townhall townhall7
+Air_Defense,3,5,1 days 12 hours, townhall townhall7
+Air_Sweeper,1,3,1 day, townhall townhall7
+Archer_Tower,4,8,0 days 12 hours, townhall townhall7
+Barrack,1,9,1 days 12 hours, townhall townhall7
+Bomb,6,4,0 days 8 hours, townhall townhall7
+Cannon,5,8,0 days 12 hours, townhall townhall7
+Dark_Barrack,1,1,0 days 8 hours, townhall townhall7
+Dark_Barrack,1,2,0 days 16 hours, townhall townhall7
+Dark_Elixir_Drill,1,1,0 days 8 hours, townhall townhall7
+Dark_Elixir_Drill,1,2,1 day, townhall townhall7
+Dark_Elixir_Drill,1,3,1 days 12 hours, townhall townhall7
+Dark_Elixir_Storage,1,1,0 days 8 hours, townhall townhall7
+Dark_Elixir_Storage,1,2,0 days 16 hours, townhall townhall7
+Elixir_Collector,6,11,0 days 16 hours, townhall townhall7
+Elixir_Storage,2,11,0 days 16 hours, townhall townhall7
+Gold_Mine,6,11,0 days 16 hours, townhall townhall7
+Gold_Storage,2,11,0 days 16 hours, townhall townhall7
+Hidden_Tesla,2,1,0 days 3 hours, townhall townhall7
+Hidden_Tesla,2,2,0 days 8 hours, townhall townhall7
+Hidden_Tesla,2,3,0 days 16 hours, townhall townhall7
+Laboratory,1,5,0 days 8 hours, townhall townhall7
+Mortar,3,5,2 days, townhall townhall7
+Seeking_Air_Mine,1,1,Instant, townhall townhall7
+Spell_Factory,1,3,2 days, townhall townhall7
+Spring_Trap,4,2,0 days 16 hours, townhall townhall7
+Wall,175,7,, townhall townhall7
+Wizard_Tower,2,4,0 days 18 hours, townhall townhall7

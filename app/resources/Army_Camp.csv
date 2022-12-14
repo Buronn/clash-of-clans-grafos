@@ -1,0 +1,13 @@
+Level,Elixir Cost,Build Time,Town hall Level Required
+1,200,5 minutes, townhall townhall1
+2,2000,0 days 1 hour, townhall townhall2
+3,10000,0 days 2 hours, townhall townhall3
+4,100000,0 days 5 hours, townhall townhall4
+5,250000,0 days 8 hours, townhall townhall5
+6,750000,0 days 12 hours, townhall townhall6
+7,1500000,2 days, townhall townhall9
+8,2500000,3 days, townhall townhall10
+9,4200000,6 days 6 hours, townhall townhall11
+10,6300000,9 days 18 hours, townhall townhall12
+11,12000000,12 days, townhall townhall13
+12,19000000,16 days, townhall townhall15

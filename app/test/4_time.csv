@@ -1,0 +1,9 @@
+Level,Air_Defense#0,Archer_Tower#0,Archer_Tower#1,Cannon#0,Cannon#1,Clan_Castle#0,Elixir_Collector#0,Elixir_Collector#1,Elixir_Collector#2,Elixir_Collector#3,Elixir_Storage#0,Elixir_Storage#1,Mortar#0,Spring_Trap#0,Spring_Trap#1,Army_Camp#0,Army_Camp#1,Barrack#0,Gold_Mine#0,Gold_Mine#1,Gold_Mine#2,Gold_Mine#3,Gold_Storage#0,Gold_Storage#1,Laboratory#0
+1,10800,60,None,None,None,None,60,None,None,None,None,None,None,0,0,None,None,None,60,None,None,None,None,None,None
+2,43200,1800,None,None,None,28800,60,None,None,None,None,None,28800,None,None,None,None,None,60,None,None,None,None,None,3600
+3,None,2700,None,None,None,None,900,None,None,None,None,None,None,None,None,None,None,None,900,None,None,None,None,None,None
+4,None,10800,10800,None,None,None,3600,None,None,None,None,None,None,None,None,18000,18000,None,3600,None,None,None,None,None,None
+5,None,None,None,14400,14400,None,3600,None,None,None,None,None,None,None,None,None,None,None,3600,None,None,None,None,None,None
+6,None,None,None,None,None,None,14400,None,None,None,None,None,None,None,None,None,None,43200,14400,None,None,None,None,None,None
+7,None,None,None,None,None,None,21600,21600,21600,21600,14400,14400,None,None,None,None,None,None,21600,21600,21600,21600,14400,14400,None
+8,None,None,None,None,None,None,28800,28800,28800,28800,18000,18000,None,None,None,None,None,None,28800,28800,28800,28800,18000,18000,None

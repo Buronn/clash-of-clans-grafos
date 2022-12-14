@@ -1,0 +1,10 @@
+Level,Gold Cost,Build Time,Town hall Level Required,Multiple Mode
+1,30,500,1500, townhall townhall10
+2,38,600,1800, townhall townhall10
+3,46,700,2100, townhall townhall10
+4,54,800,2400, townhall townhall11
+5,64,900,2700, townhall townhall11
+6,82,1000,3000, townhall townhall12
+7,94,1100,3300, townhall townhall13
+8,105,1200,3700, townhall townhall14
+9,115,1300,4000, townhall townhall15

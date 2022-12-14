@@ -1,0 +1,5 @@
+Level,Archer_Tower#0,Cannon#0,Cannon#1,Elixir_Collector#0,Elixir_Collector#1,Elixir_Storage#0,Army_Camp#0,Barrack#0,Gold_Mine#0,Gold_Mine#1,Gold_Storage#0
+1,60,None,None,60,None,None,None,None,60,None,None
+2,1800,None,None,60,None,900,3600,None,60,None,900
+3,None,2700,2700,900,900,1800,None,None,900,900,1800
+4,None,None,None,3600,3600,None,None,3600,3600,3600,None

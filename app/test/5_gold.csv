@@ -1,0 +1,11 @@
+Level,Air_Bomb#0,Air_Bomb#1,Air_Defense#0,Archer_Tower#0,Archer_Tower#1,Archer_Tower#2,Bomb#0,Bomb#1,Bomb#2,Bomb#3,Cannon#0,Cannon#1,Cannon#2,Elixir_Collector#0,Elixir_Collector#1,Elixir_Collector#2,Elixir_Collector#3,Elixir_Collector#4,Elixir_Storage#0,Elixir_Storage#1,Mortar#0,Wizard_Tower#0
+1,4000,4000,None,1000,None,None,400,400,None,None,250,None,None,150,None,None,None,None,None,None,None,120000
+2,20000,20000,None,2000,None,None,1000,1000,None,None,1000,None,None,300,None,None,None,None,None,None,None,220000
+3,None,None,270000,5000,None,None,10000,10000,10000,10000,4000,None,None,700,None,None,None,None,None,None,100000,None
+4,None,None,None,20000,None,None,None,None,None,None,16000,None,None,1400,None,None,None,None,None,None,None,None
+5,None,None,None,80000,80000,80000,None,None,None,None,50000,None,None,3500,None,None,None,None,None,None,None,None
+6,None,None,None,180000,180000,180000,None,None,None,None,100000,100000,100000,7000,None,None,None,None,None,None,None,None
+7,None,None,None,None,None,None,None,None,None,None,None,None,None,14000,None,None,None,None,None,None,None,None
+8,None,None,None,None,None,None,None,None,None,None,None,None,None,28000,None,None,None,None,None,None,None,None
+9,None,None,None,None,None,None,None,None,None,None,None,None,None,56000,56000,56000,56000,56000,100000,100000,None,None
+10,None,None,None,None,None,None,None,None,None,None,None,None,None,75000,75000,75000,75000,75000,None,None,None,None

@@ -1,0 +1,56 @@
+Level,Elixir Cost,Regen Time,Ability Level,Build Time,Town hall Level Required
+1,1000000,20m,-,Instant, townhall townhall11
+2,1250000,20m,-,0 days 2 hours, townhall townhall11
+3,1500000,20m,-,0 days 4 hours, townhall townhall11
+4,1750000,20m,-,0 days 8 hours, townhall townhall11
+5,2000000,22m,1,0 days 12 hours, townhall townhall11
+6,2250000,22m,1,0 days 18 hours, townhall townhall11
+7,2500000,22m,1,1 day, townhall townhall11
+8,2750000,22m,1,1 days 6 hours, townhall townhall11
+9,3000000,22m,1,1 days 12 hours, townhall townhall11
+10,3500000,24m,2,2 days, townhall townhall11
+11,4000000,24m,2,2 days 12 hours, townhall townhall11
+12,4500000,24m,2,3 days, townhall townhall11
+13,5000000,24m,2,4 days, townhall townhall11
+14,5500000,24m,2,5 days, townhall townhall11
+15,6000000,26m,3,6 days, townhall townhall11
+16,6500000,26m,3,7 days, townhall townhall11
+17,7000000,26m,3,7 days, townhall townhall11
+18,7500000,26m,3,7 days, townhall townhall11
+19,8000000,26m,3,7 days, townhall townhall11
+20,9000000,28m,4,7 days, townhall townhall11
+21,10000000,28m,4,7 days, townhall townhall12
+22,10100000,28m,4,7 days, townhall townhall12
+23,10200000,28m,4,7 days, townhall townhall12
+24,10300000,28m,4,7 days, townhall townhall12
+25,10400000,30m,5,7 days, townhall townhall12
+26,10500000,30m,5,7 days, townhall townhall12
+27,10600000,30m,5,7 days, townhall townhall12
+28,10700000,30m,5,7 days, townhall townhall12
+29,10800000,30m,5,7 days, townhall townhall12
+30,10900000,32m,6,7 days, townhall townhall12
+31,11000000,32m,6,7 days, townhall townhall12
+32,11100000,32m,6,7 days, townhall townhall12
+33,11200000,32m,6,7 days, townhall townhall12
+34,11300000,32m,6,7 days, townhall townhall12
+35,11400000,34m,7,7 days, townhall townhall12
+36,11500000,34m,7,7 days, townhall townhall12
+37,11600000,34m,7,7 days, townhall townhall12
+38,11700000,34m,7,7 days, townhall townhall12
+39,11800000,34m,7,7 days, townhall townhall12
+40,11900000,36m,8,7 days, townhall townhall12
+41,12000000,36m,8,7 days 12 hours, townhall townhall13
+42,12500000,36m,8,7 days 12 hours, townhall townhall13
+43,13000000,36m,8,7 days 12 hours, townhall townhall13
+44,13500000,36m,8,7 days 12 hours, townhall townhall13
+45,14000000,38m,9,7 days 12 hours, townhall townhall13
+46,14500000,38m,9,8 days, townhall townhall13
+47,15000000,38m,9,8 days, townhall townhall13
+48,15500000,38m,9,8 days, townhall townhall13
+49,16000000,38m,9,8 days, townhall townhall13
+50,16500000,40m,10,8 days, townhall townhall13
+51,17000000,40m,10,8 days, townhall townhall14
+52,17500000,40m,10,8 days, townhall townhall14
+53,18000000,40m,10,8 days, townhall townhall14
+54,18500000,40m,10,8 days, townhall townhall14
+55,19000000,42m,11,8 days, townhall townhall14

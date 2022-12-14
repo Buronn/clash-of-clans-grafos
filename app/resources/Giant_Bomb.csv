@@ -1,0 +1,9 @@
+Level,Gold Cost,Build Time,Town hall Level Required
+1,12500,Instant, townhall townhall6
+2,75000,0 days 6 hours, townhall townhall6
+3,750000,1 day, townhall townhall8
+4,2500000,3 days, townhall townhall10
+5,3500000,5 days, townhall townhall11
+6,5000000,7 days, townhall townhall13
+7,7000000,9 days, townhall townhall13
+8,9000000,11 days, townhall townhall14
