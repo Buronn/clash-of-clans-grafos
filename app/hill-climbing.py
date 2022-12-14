@@ -4,6 +4,8 @@ import random
 import plotly.figure_factory as ff
 from datetime import datetime,timedelta
 import itertools
+import matplotlib.pyplot as plt
+import time
 TODAY = datetime(2022,1,1,0,0,0)
 
 #igual que la funcion de evaluar pero entrega los datos para poder graficarlos
@@ -146,21 +148,26 @@ def operadormovimiento(solucion):
 
 #algoritmo de busqueda local local hill climbing
 def hill_climbing(solucion_inicial,tiempos,recursosEl,recursosOro,storageE,storageO,reg):
+    makespan_record=[]
     optimo=9999999999999999999999
     solucion=solucion_inicial
     iteraciones=0
     while True:
+        print("iteranding")
         mejor_vecino=None
         for vecino in operadormovimiento(solucion):#generar vecinos de la solucion
             valor=evaluate_solution(tiempos,recursosEl,recursosOro,vecino,storageE,storageO,reg)#evaluar la solucion
             if valor<optimo:#si la solucion es mejor se actualiza
+                print("mejor solucion encontrada")
+                print(optimo,valor)
                 optimo=valor
+                makespan_record.append(optimo)
                 mejor_vecino=vecino
         if mejor_vecino!=None:
             solucion=mejor_vecino
         else:
             break
-    return solucion
+    return solucion,makespan_record
 
 #Generar una solucion inicial segun la cantidad de trabajos con sus niveles respectivos
 def solucion_init(jobs):
@@ -185,7 +192,10 @@ def main():
     storageG=capacidad['Storage'].values[int(ayuntamiento)-1]
     reg=capacidad['Regen'].values[int(ayuntamiento)-1]
     solucion=solucion_init(tiempos)
-    solucion=hill_climbing(solucion,tiempos,recursosEl,recursosOro,storageE,storageG,reg)
+    start = time.time()
+    solucion,recods=hill_climbing(solucion,tiempos,recursosEl,recursosOro,storageE,storageG,reg)
+    end = time.time()
+    print("tiempo de ejecucion:",end - start,"segundos",'\tAyuntamiento:',ayuntamiento)
     df=grafico(tiempos,recursosEl,recursosOro,solucion,storageE,storageG,reg)
     #graficar el resultado
     colors = {i: f'rgb({random.randint(0,255)},{random.randint(0,255)}, {random.randint(0,255)})' for i in tiempos.columns}
@@ -193,7 +203,10 @@ def main():
     fig = ff.create_gantt(df, colors=colors, index_col='Resource', show_colorbar=True,
                         group_tasks=True)
     fig.show()
-
+    plt.plot([i for i in range(len(recods))],recods,'b')
+    plt.ylabel('makespan',fontsize=15)
+    plt.xlabel('time',fontsize=15)
+    plt.show()
 if __name__ == '__main__':
     main()
 
