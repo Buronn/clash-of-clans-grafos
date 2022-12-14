@@ -153,13 +153,13 @@ def hill_climbing(solucion_inicial,tiempos,recursosEl,recursosOro,storageE,stora
     solucion=solucion_inicial
     iteraciones=0
     while True:
-        print("iteranding")
+        print("Siguiente Iteración")
         mejor_vecino=None
         for vecino in operadormovimiento(solucion):#generar vecinos de la solucion
             valor=evaluate_solution(tiempos,recursosEl,recursosOro,vecino,storageE,storageO,reg)#evaluar la solucion
             if valor<optimo:#si la solucion es mejor se actualiza
-                print("mejor solucion encontrada")
-                print(optimo,valor)
+                print("Se mejoró un: ",(optimo-valor)/optimo*100,"%")
+                print("\t",optimo,"->",valor,"\n")
                 optimo=valor
                 makespan_record.append(optimo)
                 mejor_vecino=vecino
@@ -205,8 +205,8 @@ def main():
                         group_tasks=True)
     fig.show()
     plt.plot([i for i in range(len(recods))],recods,'b')
-    plt.ylabel('makespan',fontsize=15)
-    plt.xlabel('time',fontsize=15)
+    plt.ylabel('Makespan',fontsize=15)
+    plt.xlabel('Soluciones',fontsize=15)
     plt.show()
 if __name__ == '__main__':
     main()
