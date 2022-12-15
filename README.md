@@ -1,4 +1,6 @@
 # Construcción óptima para Clash of Clans
+Puede ver un ejemplo para ayuntamiento de nivel 3 **[aquí](https://buronn.github.io/coc.github.io/)**.
+
 Los siguientes gráficos muestran el resultado del algoritmo de Hill Climbing utilizado para encontrar una solución óptima para nuestro proyecto. La línea azul representa el makespan de la solución, que va mejorando a medida que el algoritmo realiza cambios en la solución inicial. La solución final es la mejor encontrada por el algoritmo y tiene un makespan mínimo.
 
 ## Mejor Mejora (Ayuntamiento 2 - 10)
