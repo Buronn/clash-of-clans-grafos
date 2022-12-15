@@ -3,23 +3,23 @@ Los siguientes gráficos muestran el resultado del algoritmo de Hill Climbing ut
 
 ## Mejor Mejora desde el nivel 2 hasta ayuntamiento 10
 ### Ayuntamiento 2
-![Ayuntamiento 2](app/resultados/mejormejora/ayunta2.png | width=500)
+![Ayuntamiento 2](app/resultados/mejormejora/ayunta2.png)
 ### Ayuntamiento 3
-![Ayuntamiento 3](app/resultados/mejormejora/ayunta3.png | width=500)
+![Ayuntamiento 3](app/resultados/mejormejora/ayunta3.png)
 ### Ayuntamiento 4
-![Ayuntamiento 4](app/resultados/mejormejora/ayunta4.png | width=500)
+![Ayuntamiento 4](app/resultados/mejormejora/ayunta4.png)
 ### Ayuntamiento 5
-![Ayuntamiento 5](app/resultados/mejormejora/ayunta5.png | width=500)
+![Ayuntamiento 5](app/resultados/mejormejora/ayunta5.png)
 ### Ayuntamiento 6
-![Ayuntamiento 6](app/resultados/mejormejora/ayunta6.png | width=500)
+![Ayuntamiento 6](app/resultados/mejormejora/ayunta6.png)
 ### Ayuntamiento 7
-![Ayuntamiento 7](app/resultados/mejormejora/ayunta7.png | width=500)
+![Ayuntamiento 7](app/resultados/mejormejora/ayunta7.png)
 ### Ayuntamiento 8
-![Ayuntamiento 8](app/resultados/mejormejora/ayunta8.png | width=500)
+![Ayuntamiento 8](app/resultados/mejormejora/ayunta8.png)
 ### Ayuntamiento 9
-![Ayuntamiento 9](app/resultados/mejormejora/ayunta9.png | width=500)
+![Ayuntamiento 9](app/resultados/mejormejora/ayunta9.png)
 ### Ayuntamiento 10
-![Ayuntamiento 10](app/resultados/mejormejora/ayunta10.png | width=500)
+![Ayuntamiento 10](app/resultados/mejormejora/ayunta10.png)
 
 A continuación se muestra la carta de Gantt correspondiente a la solución óptima encontrada por el algoritmo de Hill Climbing. La carta muestra cómo se distribuyen las tareas entre los 5 trabajadores disponibles, y también muestra la duración de cada tarea y cómo se relacionan entre sí.
 
