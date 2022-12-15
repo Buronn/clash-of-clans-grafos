@@ -44,3 +44,5 @@ A continuación se muestra la carta de Gantt correspondiente a la solución ópt
 ![Ayuntamiento 10](app/resultados/mejormejora/ayunta10gantt.png)
 
 Como se puede ver en la carta de Gantt, la solución óptima encontrada por el algoritmo de Hill Climbing permite subir al máximo la aldea en el menor tiempo encontrado.
+
+Los resultados de Primer Mejora están en [esta carpeta](/app/resultados/primermejora)
