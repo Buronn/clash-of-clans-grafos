@@ -3,6 +3,10 @@ Puede ver un ejemplo para ayuntamiento de nivel 2 **[aquí](https://buronn.githu
 
 Los siguientes gráficos muestran el resultado del algoritmo de Hill Climbing utilizado para encontrar una solución óptima para nuestro proyecto. La línea azul representa el makespan de la solución, que va mejorando a medida que el algoritmo realiza cambios en la solución inicial. La solución final es la mejor encontrada por el algoritmo y tiene un makespan mínimo.
 
+Cabe mencionar, que todas estas pruebas se realizaron con el siguiente hardware:
+- 32GB RAM, Dual Channel 2666MHz 
+- Intel i9-9900 (QQBZ) 4.2GHz
+- NVIDIA GTX 1650 Super
 ## Mejor Mejora (Ayuntamiento 2 - 10)
 ### Ayuntamiento 2
 ![Ayuntamiento 2](app/resultados/mejormejora/ayunta2.png)
